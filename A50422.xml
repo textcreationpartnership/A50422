@@ -1,0 +1,478 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ymddiffyniad rhag pla o schism neu swyn gyfaredd yn erbyn neullduaethau yr amferoedd ...</title>
+            <title>Sermon against schisme. Welsh</title>
+            <author>Mayne, Jasper, 1604-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50422</idno>
+            <idno type="STC">Wing M1481</idno>
+            <idno type="STC">ESTC R43439</idno>
+            <idno type="EEBO-CITATION">27606693</idno>
+            <idno type="OCLC">ocm 27606693</idno>
+            <idno type="VID">110144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1728:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ymddiffyniad rhag pla o schism neu swyn gyfaredd yn erbyn neullduaethau yr amferoedd ...</title>
+                  <title>Sermon against schisme. Welsh</title>
+                  <author>Mayne, Jasper, 1604-1672.</author>
+               </titleStmt>
+               <extent>[4], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printiedig ynghaer Ludd gan Joa. Streater, tros Philip Chetwinde,</publisher>
+                  <pubPlace>[Ludd] :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through and loss of text.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schism --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110144:1" rendition="simple:additions"/>
+            <p>YMDDIFFYNIAD Rhag pla o SCHISM: NEU Swyn gyfaredd yn erbyn neullduaethau yr Amſeroedd. A dynwyd allan o Ragſcrifenadau yr Apoſtolion gan mwyaf: allan o waith St. <hi>Paul,</hi> a St. <hi>Jud.</hi> Yn dangos trwy yſpyſrwydd goruchel, i ba gy<g ref="char:EOLhyphen"/>friw bechodau a pheryglon ofnadwy y ſyrthiant hwy, y rhai a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>êd allan or Ecclwys i <hi>Schiſm</hi> neu rwygiad. Ac o ba fath gynneddf melldigedig ddamnedig ydyw y gwyr a demptia, ac a arweinia ir cyfriw <hi>neullduadau.</hi>
+            </p>
+            <p>Cyfieithiad <hi>R. V.</hi> Eſc.</p>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 11.18, 19.</hi>
+               </bibl>
+               <p>Yr <hi>ydwyf</hi> yn clywed fod ymrafaelion yn eich myſc chwi ac o ran yr ydwyf yn credu.</p>
+               <p>Canys rhaid yw bod Hereſiau yn eich myſc; fel y byddo y rhai cymeradwy yn eglur yn eich plith chwi.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Tertul de praeſc. dv. Haer.</hi>
+               </bibl>
+               <p>Nec tamen ideo bonum hæreſes quia eſſe eas oportebat quaſi et malum non oportuerit eſſe, nam et dominum tradi opor<g ref="char:EOLhyphen"/>tebat ſed væ traditori.</p>
+            </q>
+            <p>Printiedig ynghaer Ludd gan <hi>Joa. Streater,</hi> tros <hi>Philip Chetwinde,</hi> 
+               <date>1658.</date>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110144:2"/>
+            <pb facs="tcp:110144:2"/>
+            <head>At y Darllenydd.</head>
+            <p>YR Awdwr a amcanafai yr <hi>ymddi<g ref="char:EOLhyphen"/>ffyniad</hi> hwn yn vnig megis yn <hi>chwanegiad</hi> at ei <hi>Lawlyfr.</hi>
+               <note place="margin">Rhwygedig crogedig.</note> Mal y byddai Antidot neu ſwyn gyfaredd yn gyſtal yn erbyn y newydd-dra <hi>Schiſmati<g ref="char:EOLhyphen"/>gaidd</hi> a <hi>Phabeidd-dra,</hi> yr hwn er bod <hi>Humor</hi> yr amſeroedd yn fawr yn ei erbyn, etto y llall aeth yn <hi>Epidemical</hi> yn heintglwyf yr amſeroedd. Eithr oblegit y dichon ddymuned, a chael budd oddiwrth hwn, y rhai nid oes vddynt ar <hi>Ym<g ref="char:EOLhyphen"/>ddiffyniad</hi> or blaen yn y llyfr hwnnw allant (os gwelant yn dda) rwymo gyd ag efo y Swyn gy<g ref="char:EOLhyphen"/>faredd newydd yma: Fe printiwyd ef felly yn y cyfriw <hi>Ddalen</hi> y gellir ei chwanegi atto neu i adael or neulldu.</p>
+            <p>Mal y gallo wneuthur mwy daioni y gwnaed hynny. A llawer (yn ſiccr) a wneiff, oni fetha pin yſcrifen yr Awdur daro r nod y <hi>Lefelodd</hi> ef atto. Ac na bo mwy bustl iw gael ynghydwybod y darllenydd, nag yn ei <hi>ingc</hi> yntau canys nid cy<g ref="char:EOLhyphen"/>ffroi i ddigio, ond lles buddiol a ewyllyſiai, ac oni bydd dyn a chariad iddo ei hun, i drechu y gwi<g ref="char:EOLhyphen"/>rionedd y mae yn gobeithio yma bethau i ortre<g ref="char:EOLhyphen"/>chu mwy nag y digio ei eiriau.</p>
+            <p>
+               <pb facs="tcp:110144:3"/>Yn ddarn gyfaddas y mynnai ei gael ef iw <hi>Lyfran</hi> ac iw <hi>feddwl.</hi> Yr hyn a lefara a genau <hi>Pacian:</hi>
+               <note place="margin">Chriſtion yw fy enw cyffredin cyfenw.</note> 
+               <hi>Chriſtianus mihi nomen, Ca<g ref="char:EOLhyphen"/>tholicus cognomen:</hi> (nid Rhufeiniaidd yw ef, ond Criſtion Catholic;) Ac oddiwrth yſpryd St. <hi>Baſil, Yn hynny y mae, mal yr oedd erri<g ref="char:EOLhyphen"/>oed, a thrwy Ras Duw, a fydd fyth fel y mae. Ac yn Attolwg i ti ac i bawb oll yn yſpryd St.</hi> Paul, <hi>yn enw yr Arglwydd Jeſu Griſt, wneuthur ac i fod fel y dylych,</hi> ddy<g ref="char:EOLhyphen"/>wedyd o bawb o<g ref="char:EOLunhyphen"/>honoch yr vn peth, na byddo Schiſmau neu ymbleidio yn eich plith, eithr bod wedi eich cyfan gyſylldu, mewn vn feddwl ac vn farn. Bod or meddwl ar yſpryd hwn ynot ti, ac yntau ydyw ewyllys a gweddi.</p>
+            <closer>
+               <signed>
+                  <hi>Carwr y Criſtian neu</hi> Philo-Chriſtianus.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110144:3"/>
+            <head>Ymddiffynniad rhag pla o <hi>Schiſm,</hi> neu ſwyn gyfaredd yn erbyn neullduaethau yr amſeroedd a dynnwyd allan o ragſcrifennau yr Apoſtolion gan mwyaf allan o waith St. <hi>Paul,</hi> a St. <hi>Jud.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Rhyf. 16.17, 18.</hi>
+                  </bibl>
+                  <p>Ac yr wyf yn attolwg i chwi frodyr, graffu ar y rhai ſyn peri angydfod, a rhwyſtrau, yr erbyn yr athrawiaeth a <hi>ddyſgaſoch</hi> chwi, a chilio oddiwrthynt.</p>
+                  <p>Canys y rhai ſy gyfriw, nid ydynt yn gwaſanae<g ref="char:EOLhyphen"/>thu ein Harglwydd Jeſu Griſt: eithr eu bol eu hunain, a thrwy ymadrodd teg a gweni<g ref="char:EOLhyphen"/>aith yn twyllo calonnau y rhai diddrwg.</p>
+                  <bibl>
+                     <hi>Jud</hi> ad <hi>19.</hi>
+                  </bibl>
+                  <p>Y rhai hyn yw y rhai ſy n eu didoli eu hunain, yn anianol heb fod yr yſpryd ganddynt.</p>
+               </q>
+            </epigraph>
+            <p>OS St. <hi>Paul</hi> gan hynny a St. <hi>Jud</hi> a fyddant Farnwyr Didolwyr a nodir am wyr a waſanaetha eu bol o flaen Criſt, o dafodan gwell a theceach nai calonnau, a'mwy o gig drwg ynddynt nag o <hi>yſpryd</hi> da: Wedi ffurfio yn<g ref="char:EOLhyphen"/>ddynt
+<pb n="2" facs="tcp:110144:4"/> enaid anifail yn hytrach nag enaid Criſtion. Etto y mae St. <hi>Paul</hi> yn dyſt a Duw ei hun yn farnwr, nyd ydyw pob vn am ddi<g ref="char:EOLhyphen"/>dolant (neu am neullduant) yn ddidolwr allan o law; Canys y mae Duw yr hwn a wahardd bob pechod, yn gorchymyn math ar ddidoliad— <hi>Ymddidolwch medd yr Ar<g ref="char:EOLhyphen"/>glwydd</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">2 Cor. 6.17.</note>
+            </p>
+            <p>Mal gan hynny na wneler cam a neb, ond cael or talcen euog ei <hi>Loſci,</hi> ar dieuog yn ddiangol oddiwrth y rôd hwnnw o wrad<g ref="char:EOLhyphen"/>wydd, rhaid i ni roi rhagoriaeth yn orau yn<g ref="char:EOLhyphen"/>goleuni Gair yr holl alluog Dduw.<note place="margin">Dad. 18.4.</note> 
+               <hi>Deuwch allan o honi fy mhobl fel na byddoch gydgyfran<g ref="char:EOLhyphen"/>nogion oi phechodau ac na dderbynioch oi phla<g ref="char:EOLhyphen"/>uau hi.</hi> Dyma lef or nefoedd, wrth oleuni yr hon y gwelwn, os rhyw le nen Ecclwys a fydd yn <hi>Babilon</hi> (bydded yn <hi>naturiol</hi> neu yn ddirgel, yn <hi>Caldea</hi> neu yn yr <hi>Ital,</hi> pa vn neu ple bynnac y bo) <hi>hynny yw</hi> os cynnydda yn gorph mor llygredig, a chwedi ei chlwyfo cyn belled a chamwedd at a drygioni, mal na allom heb bechod a phla ein <hi>Corpholiaethu</hi> an cymuno ag yhi, allan rhaid i ni lyned y mae Duw yn ein galw i ddyfod allan. Ac yno heb perigl yn y byd, nag o <hi>anufudd-dod</hi> vchel ir holl alluog Dduw, na <hi>diniſtr</hi> i ni ein hu<g ref="char:EOLhyphen"/>nain y mae yn rhaid <hi>ſymudo.</hi>
+               <note place="margin">Jer. 50.8.</note> 
+               <hi>Ewch allan ciliwch allan,</hi> (megis am eich hoedloedd) ie yr hyn ſydd (nen a ddylai fod yn fwy) <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i fynnwn ni ein torri ymaith yn ei hanwiredd hi,</hi> rhaid i ni fryſio ymaith mal y carom ein eneidau.</p>
+            <p>
+               <pb n="3" facs="tcp:110144:4"/>Y nôd cyffredin o Schiſm, y mae y rhai o Rufain yn ei roddi i ni, yr <hi>Adgyweiriedig</hi> (am ſymud oddiwrthynt hwy) nid yw yn argraffu mwy, ar ben doeth, o <hi>gywilydd,</hi> nag yw hauarn oer yn briwo. Nes y dangoſont (trwy eglurwch gwell nai eu hun eu hun) na ymadawſont hwy oddi wrth y purdeb de<g ref="char:EOLhyphen"/>chreuol ar goſodiad iachus ar cyflwr o Eccl<g ref="char:EOLhyphen"/>wys Griſtnogawl, an bod ninnau heb ddych<g ref="char:EOLhyphen"/>welyd iddi. Ac na fynnem ni vddynt nwy fyned yn ol gyd a ni, ac na chynnwyſwn vddynt hwy ddyfod lle yr <hi>aethom</hi> ninnau: A p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a bryd bynnac y goſodant droed i ddych<g ref="char:EOLhyphen"/>welyd ir hên burdeb hwnnw, na byddwn ni allan o law yn barod i gyfarfod ac i gyſylltu <hi>dwylaw</hi> a gliniau gyd ac hwynt hwy. Ac ar ddan, <hi>dwylaw,</hi> a <hi>chalonnau,</hi> vno eneidiau a chyrph ag hwynt, yn yr vnrhiw Ecclwys a chyd a hwynt, a phawb oll mewn cymun gyd ag hwynt.</p>
+            <p>A phrofant. Na ymddaroſtyngwn ni ir vnig eli a meddyginiaeth i <hi>Schiſm: Cymanfa</hi> rydd <hi>Gyffredin,</hi>
+               <note place="margin">Yn ol amſer y fren, mari y Papiſtiaid yn hir a ddeuai in hecclwys ni nes i (pius <hi>5.</hi> ai darw eu cornio allan) nid mal Cy<g ref="char:EOLhyphen"/>manfa Trent. nid oedd na chyffrediu na didueddol.</note> pa bryd bynnac y galwer gan wyr dihawl a didueddol i vnrhyw blaid, i fy<g ref="char:EOLhyphen"/>ned rhagddynt yn ol rheolau Criſthogawl, ac eglurwch i wrando ac i ddibennu yr ym<g ref="char:EOLhyphen"/>rafaelion or ddeuru, ac i ddatcan cyn belled yr aethont ar gefeilorn, ac ydylent ddychwe<g ref="char:EOLhyphen"/>lyd, ac yn ol hynny iw <hi>trefnu,</hi> ai <hi>heddy<g ref="char:EOLhyphen"/>chu.</hi>
+            </p>
+            <p>Wrth hyn y Barna Duw ar Byd, pwy fwyaf a gâr ac a wna <hi>Schiſm:</hi> hwynt hwy o fewn, ai nyni allan o Ecclwys Rufain.</p>
+            <p>
+               <pb n="4" facs="tcp:110144:5"/>Ac yma galwer yr hêu Dadau a grawnda<g ref="char:EOLhyphen"/>wer, am <hi>Dyſtion,</hi> ni oſododd neb allan <hi>natur</hi> ac <hi>euogrwydd Schiſm</hi> mewn arwyddion <hi>cywi<g ref="char:EOLhyphen"/>r ach</hi> ac <hi>hynottach.</hi> Hwynt hwy ai gwahan<g ref="char:EOLhyphen"/>redant oddiwrth <hi>Hereſi</hi> mal hyn: Hereſi yw ymadawiad a gwirioned Ecclwyſawl, hyd at dorriad y <hi>ffydd</hi> Gatholic, eithr <hi>Schiſm</hi> yw torriad yr vndeb Ecclwyſawl, ac ymado a <hi>Chariad</hi> Chriſtnogawl felly y mae St. <hi>Jerom</hi> yn ei roi allan: <hi>Hereſi</hi> a faentimia opiniwn gwrthnyſig yn yr Ecclwys, eithr <hi>Schiſm</hi> a wna neullduaeth oddiwrthi. Ac felly y mae St. <hi>Awſtin</hi> yn rhoddi y rhagoriaeth; <hi>Hereſi</hi> ſydd yn blaid or rheini a ddylynant lawer o ffyrdd, eithr <hi>Schiſm</hi> neullduaeth or rheini ydynt yn myned ar ol <hi>vn</hi> ffordd. Ac am hyn<g ref="char:EOLhyphen"/>ny nid amriw ffydd, ond gwahanu Cymun gyd ag ef, ſydd <hi>Schiſm.</hi> Pa vn bynnac ai gy<g ref="char:EOLhyphen"/>da, ai heb Hereſi, (mal y mae Schiſm yn fy<g ref="char:EOLhyphen"/>nych, yn <hi>gymar</hi> yn <hi>blentyn</hi> yn <hi>fam,</hi> a llawer amſer yn ddieithr iddi) y maent bob amſer yn rhoi euogrwydd, Schiſm, ir cyfriw dorriad ar gariad. Gan wneuthur yr vndeb hwnnw yn <hi>amlygyn</hi> ac yn <hi>fatter</hi> o<g ref="char:EOLunhyphen"/>honi, ar torriad yma yn lluniol <hi>ffurf.</hi>
+            </p>
+            <p>Mal hyn y cafas St. <hi>Cyprian</hi> ei ryddhau oddiwrth <hi>Schiſm</hi> trwy farn y Gymanfa o Carthago (er na chafas ei farnu yn ddieuog o feiau eraill) am ei fod ef ei hun yn cadw Cymun gyd ar Ecclwys <hi>Gatholic,</hi> ac (er nad oeddynt oi feddwl ef) heb gadw neb oddi<g ref="char:EOLhyphen"/>wrthi. Eithr yn yr ail Gymanfa o <hi>Conſtanti<g ref="char:EOLhyphen"/>nobl,</hi> fe ai bwriwyd hwy yn euog, (trwy lefe<g ref="char:EOLhyphen"/>rydd ac ewyllys Cyffredin 150 or Tadau) yr
+<pb n="5" facs="tcp:110144:5"/> rhai ni chadwaſant Gymun ar Ecclwys, er eu bod yn ddifai ond hynny. Yr eglurwch oedd yr vnrhiw fath ac or blaen. Megis na wnae<g ref="char:EOLhyphen"/>thont mo bob didoliad yn <hi>bechod,</hi> oddiwrth pa <hi>corph</hi> bynnac, felly ni wnaethant mo bob gwahaniad, yn <hi>Schiſm,</hi> oddwrth bob rhyw Ecclwys, pa fath bynnac, eithr an-nyledus ac anghyfion vn, oddiwrth oll, neu oddiwrth vnrhyw.</p>
+            <p>Os gan hynny neullduol Ecclwys (canys y <hi>gyffredin</hi> ni eill, a honno nid Ecclwys <hi>Rufain</hi> yw), os y hi, neu vnrhyw, o fod yn Ga<g ref="char:EOLhyphen"/>tholic a dry yn <hi>Heretic</hi> mewn ffydd, ac o vn <hi>ſanctaidd,</hi> a ddaw yn <hi>Wrthun</hi> ei Addoliad, ei gadael hi nid yw <hi>Schiſm,</hi> o<g ref="char:EOLunhyphen"/>herwydd nid <hi>ymadawiad</hi> ond <hi>dychweliad</hi> ir lân Ecclwys Gatholic ydyw. Ac nid yw hyn wneuthur rhwygiad yn y corph, ond i ochel haint oddi<g ref="char:EOLhyphen"/>wrth yr aelodau. Na, cyfundeb a chyd gy<g ref="char:EOLhyphen"/>franniad ar cyfriw Ecclwys, ſydd fradwriaeth yn hytrach yn erbyn y <hi>pen,</hi> na chymun ar <hi>corph.</hi> Ac i ymwrthod ar cyfriw <hi>gefeillach,</hi> nid yw <hi>wneuthur,</hi> ond gwellhau, ac iachau <hi>torriad.</hi> Ac am hynny yn erbyn achwyn <hi>Rhu<g ref="char:EOLhyphen"/>fain</hi> am roi <hi>Schiſm</hi> yn ein herbyn ni am a<g ref="char:EOLhyphen"/>dael eu cynylleidfaoedd hwynt, ein Hatteb a ddichon fod, mal yn erbyn yr <hi>Arianiaid nid euog.</hi> Megis y tynnodd yr <hi>Eſcob</hi> ei achos o ddidoliad a rhagoriaeth oddi wrth <hi>y Dona<g ref="char:EOLhyphen"/>tiſtiaid. Nyni gan gadw r Ecclwys (trwy ras Duw) a barhawn ym mherffaiddlan ffydd a chymun y Tadau: ac ni ddidolwn oddiwrth yr vn, ond yr rhai ni wnant felly.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:110144:6"/>Na, ein <hi>ymadiad</hi> ni a haeddai fawl am wneuthur yn dda. Os hwy a ddanodant i ni ballu on vfudd-dod oddiwrth y <hi>gadair</hi> Apo<g ref="char:EOLhyphen"/>ſtolaidd, yn yr hon y maent yn profi ac yn <hi>dadleu</hi> fod <hi>rhill</hi> waſtadol o Babau cyn lynol i St. <hi>Peter.</hi>
+               <note place="margin">Scries.</note> St. <hi>Hierom</hi> ac <hi>Ireneus</hi> a gaiff roi <hi>ail atteb</hi> troſom ni. Nid yw yr Ecclwys yn gynnwyſedig mewn muriau neu waliau, onid mewn ſeiliau o ffydd. Ac am hynny rhaid i ni vfudd-hau ir offeiriadau hynny, yr rhai gyd ar Eſcobion a ddaethout ar ol, a dderbyniaſant ddawn y gwirionedd. Onide nid oes dim pechod neu Schiſm yn ein yma<g ref="char:EOLhyphen"/>dawiad ni oddiwrthynt hwy, ond yn eu gwaith hwy yn gadael ſeiliau y ffydd.</p>
+            <p>Ac o<g ref="char:EOLunhyphen"/>herwydd ein bod ni o Ecclwys mor ddedwyddol, a fynwyr-ddoeth wedi ein glanhau an iachau or llygredigaethau hynny o <hi>Rufain,</hi>
+               <note place="margin">Gwelwch Act. &amp; Monu. <hi>Hani. 8.</hi>
+               </note> (mal yr ydym yn ſefyll wedi ein goſod ar ein hên ſail an llawr) Am hynny y neullduolaethau preſennol, ar gwahania<g ref="char:EOLhyphen"/>dau ynddi ydynt yn eglur wrthun a drygio<g ref="char:EOLhyphen"/>nus. Ac y maent hwy yn fyddar ac yn ddall yſprydol, nad ydynt yn clywed ac yn gweled llef a golenni or nef yn galw arnynt oddi<g ref="char:EOLhyphen"/>wrth y neullduaeth hynny,<note place="margin">Rhyf. 16.17. Jud. 19. 2 The. 3.14. 2 Petr. 2. Jac. 3.16. ar. 4.1. 2 Joa. ad 10.</note> ac yn dangos vddynt pa<g ref="char:EOLunhyphen"/>ham y dylent ddyfod ar y galwad hwnnw. Os llefain a thân Apoſto laidd a ddi<g ref="char:EOLhyphen"/>chon wneuthur y llef honno ar goleuni. Dau o<g ref="char:EOLunhyphen"/>honynt, ag vn <hi>fflam</hi> olau (megis o ddas eith yn ar fryn) ai dadcuddia hwynt am rai diffaeth drygionus: yr rhai a wnel ddidoliad, ac yn eu <hi>nodi,</hi> am y rhai dihiraf or bryn<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <pb n="7" facs="tcp:110144:6"/>Ac oll ag vn genau yn llefain allan ar<g ref="char:EOLhyphen"/>nynt, megis ar glwyf dŷ yr yſprydoedd, ac wrthym ni (mal y maent yn gyfriw) iw go<g ref="char:EOLhyphen"/>chel hwynt. Ac oni fynnwn ni ein <hi>lloſci</hi> an <hi>anrheithio,</hi> rhaid i ni wneuthur y ddau.<note place="margin">Nodwch hwynt. Canys pechod mawr yw Schiſm. Nodwch hwynt.</note> Nod<g ref="char:EOLhyphen"/>wch yn gyntaf ac yno gochelwch hwynt. Fel<g ref="char:EOLhyphen"/>ly y gnawn am eu mawr 1. <hi>Euogrwydd.</hi> ac. 2. <hi>Coſpedigaeth.</hi> Os daliwn ni ſulw yn dda. Y Pechod yw yn erbyn yr yſpryd glân medd St. <hi>Ambros.</hi> Pechod yn ei erbyn ef, diammau yw, a thra-vchel o<g ref="char:EOLunhyphen"/>herwydd ei reſwm ef: Ca<g ref="char:EOLhyphen"/>nys pechodau eraill ydynt <hi>contra ſingulos</hi> ſef yn erbyn rhai vnig, hwn <hi>contra vniverſos</hi> ſef: yn erbyn y cwbl oll. Felly yn gimaint ac yw cyffredinrhwydd yn fwy nag vn perſon, y mae <hi>Schiſm</hi> vwchlaw pechod arall. Ac yn gimaint ac y mae <hi>Sancteiddiol</hi> yn well na <hi>Di<g ref="char:EOLhyphen"/>naſol</hi> gyffredinrhwydd, cym mhelled y mae hwn yn waeth na phechod yn erbyn <hi>Cym<g ref="char:EOLhyphen"/>deithas amſerol.</hi> Hynny yw, cimaint ac yw y nefoedd vwchlaw r ddauar. Heddwch Duw o flaen hedd dyn. A chyflwr da ineneidiau o flaen in cyrph. Yr Ecclwys o flaen y byd. Ac y mae yn rhaid i hynny fod yn fawr anfei<g ref="char:EOLhyphen"/>drol. Canys os yw pris vn enaid vwchlaw gwerth y byd; yr Ecclwys (yr hon a gynn<g ref="char:EOLhyphen"/>wys ynddi lawer mil o filoedd o eneidiau,) a ddylai gael ei phriſio yn ollawl vwchlaw myrdd o fydoedd.<note place="margin">Eph. 4.3, 16. Col. 2.9. ar. 3.14.</note> Ac y mae <hi>Schiſm</hi> yn ta<g ref="char:EOLhyphen"/>ro at wir gorph yr Ecclwys: ie, yn gwahanu vndeb, yr hwn yw r <hi>yſpryd,</hi> ac yn torri ymaith <hi>gariad</hi> yr hwn yw <note n="*" place="margin">Charitatis Chriſtianae vinculum.</note> 
+               <hi>rhwymedigaeth</hi> y corph hwnnw.</p>
+            <p>
+               <pb n="8" facs="tcp:110144:7"/>Felly y mae yn gadael yr Aelodan yn rhydd eiſiau rhwym o berffeithrwydd, ac yn goſod yr holl gorph yn friwedig i waedu. Gan wneuthur gwaeth o gorph <hi>dirgel</hi> Criſt nag a wnaeth yr Iuddewon oi <hi>anianol,</hi> (Etto yr oedd ef yn rhoi ei gorph dirgel or blaen; canys er maint ei llid cythreulig i Griſt, ni wnaethont ond archolli a briwo ei gorph, ni thorrwyd aſgwrn o<g ref="char:EOLunhyphen"/>hono; y mae y rhain yn torri ac yn yſſu yr Ecclwyſydd oll yn ddarnau. Pechod or <hi>vchaf.</hi> Canys pa fodd y geill y llaw gyrraedd yn vwch, nai chyfodi ei hun ar vnwaith (nid yn erbyn aclod yr hyn a wnaeth rhai yn bechod difaddeu eithr) yn erbyn y corph gorau yn y byd yr <hi>Ecclwys.</hi> Ac yn erbyn (nid rhyw yſpryd glân o ddyn ond) y <hi>gorau,</hi> yn anherfynol vwchlaw oll yn y byd, yr <hi>yſpryd glan;</hi> yr hwn trwy y rhwym ſanctaidd hwnnw a ddeil ynghyd, ac a fywhá yr Aelodau yn y corph hwnnw. Ac yn erbyn (nid llawer o Griſtnogion yn vnig ond) Criſt ei hunan,<note place="margin">Act. 9.5.</note> yr hwn a lywodraetha ac a fywha y corph hwnnw, ar Aelodau hynny, trwy yr yſpryd glân. Noda ef gan hynny am y pechod or ryw mwyaf anwireddus.</p>
+            <p>Ac am hynny o <hi>Ddigwyddiad</hi> mor alarus. O<g ref="char:EOLunhyphen"/>blegit yr Aelodau a <hi>Syrthiaſant</hi> ymaith trwy <hi>Schiſm</hi> ydynt <hi>Golledig:</hi> (megis can<g ref="char:EOLhyphen"/>ghennau a dorrwyd ymaith oddiwrth y pren a grina ac a wywa) yn <hi>Farwol</hi> eiſiau bywyd; oddiwrth yr yſpryd glan, yr hwn a <hi>Fywhâ</hi> yr aelodau yn vnig yr rhai ydynt yn y <hi>corph.</hi> Yr rhai a gadwant i mewn a <hi>friwir</hi> herwydd y golled, ac a orweddant yn <hi>Wanhychlyd,</hi> am
+<pb n="9" facs="tcp:110144:7"/> hynny megis y mae corph yn gloff, ac yn col<g ref="char:EOLhyphen"/>li nerth lawer wrth golli llawer o waed ar dorriad rhai Aelodau. A holl gorph cyfan yr Ecclwys, a adewir yn wan trwy y <hi>Gwahaniad,</hi> yn barod i ſyrthio i ddiniſtr: y ffordd fawr i hynny ym mhobryw <hi>deulu</hi> neu <hi>Gyffredinwlad:</hi>
+               <note place="margin">Mar. 3.24.</note> eithr yn enwedig yn nhŷ Dduw, a Theirnas Griſt: ie y mae corph yr ſtât yn cael ei yſg<g ref="char:EOLhyphen"/>wyd gan y <hi>Codwm,</hi> megis diniſtr a chwymp Emerodraeth Groeg a ddaeth ar dorriadau r Ecclwys. Trwy <hi>Schiſmau</hi> ac ymbleidiau yn galw ac yn gollwng i fewn y Twrc (yr <hi>ordd</hi> a dorrod y corph oll yn ddarnau) Na, mae holl gorph dynol ryw yn waeth, o achos y <hi>rhwygiadau</hi> hyn. Canys, am yr <hi>anffyddloniaid</hi> yn lle eu galw hwynt i mewn, hyn ai ceidw hwynt allan or Ecclwys, Cym<g ref="char:EOLhyphen"/>mhelled oddiwrth eu gwahadd, ai derbyn hwynt, trwy fedydd i ffydd Griſt, mal y mae yn rhoddi vddynt Sacrament o Gydffurfiad yn ei hun ei hunain. <note n="*" place="margin">Dicit gen<g ref="char:EOLhyphen"/>tilis vellem fieri Chri<g ref="char:EOLhyphen"/>ſtianum ſed neſcio cui haeream. <hi>Chryſ.</hi>
+               </note> Nid cau eu ſafnau, fel y dylem, ac y gallem, trwy ein ymddy<g ref="char:EOLhyphen"/>giad Chriſtnogawl canmoladwy, an cyttun<g ref="char:EOLhyphen"/>deb, ond ei egoryd hwynt yn llydan i gablu yr Ecclwys am gorph o drefn wrthun, a Chriſt, am na byddai yn hon ar gorph gwell.</p>
+            <p>Am yr <hi>Euogrwydd</hi> mawr hwn, y mae Duw yn rhoddi <hi>coſpedigaeth</hi> cyfattebol. Mewn Barn a marwolaeth gymmwys ir cyfriw er<g ref="char:EOLhyphen"/>chill Gablwyr Criſt, a llofruddwyr yn ei Eccl<g ref="char:EOLhyphen"/>wys. Or rhai y gwelodd y byd ddihenydd of<g ref="char:EOLhyphen"/>nadwy.</p>
+            <p>
+               <pb n="10" facs="tcp:110144:8"/>Y gyntaf oedd yn Ecclwys yr <hi>Iuddewon.</hi> Rhwygedig a thorredig yn ddwy: o waith <hi>Corah</hi> ai <hi>Wrthryfelwyr.</hi> Am hynny (i ddan<g ref="char:EOLhyphen"/>gos gimaint oedd o gaſineb iw pechod gan y <hi>nefoedd)</hi> y ddaiar a egorodd ei ſafn iw cyme<g ref="char:EOLhyphen"/>ryd yn fyw i <hi>vffern.</hi> Ac megis (mal nad oedd vn hên ddialedd yn ddigon drwg vddynt (er ein bod ni yn darllain o amriw drachineb trwy ddwfr tân ac awyr or blaen) fe wnaeth Duw beth newydd vddynt hwy, y cyfriw ni fuaſai errioed yn y byd or blaen. Creadi<g ref="char:EOLhyphen"/>gaeth newydd ar goſpedigaeth. Uffern ar nefoedd yn cyttuno i loſci ac i ddifa yr holl ddynion, ar pethau yn y <hi>Schiſm, Tadau,</hi> a <hi>Chan<g ref="char:EOLhyphen"/>llynwyr</hi> oll, mewn vn <hi>agen,</hi> y da, y gwerſyll, ar pyrthynaſau gyd ar <hi>gwyr gwragedd</hi> ai <hi>plant.</hi>
+            </p>
+            <p>Yr ail oedd yn yr Ecclwys Griſtnogawl o waith <hi>Arrius,</hi> yr hwn megis <hi>Corah</hi> arall mewn balchder calon a ſynwyr, trwy <hi>Hereſi</hi> reſynol a wnaeth <hi>Schiſm</hi> alarus: yn yr hon y collodd yr Ecclwys <hi>furdd</hi> o gyrph ac e<g ref="char:EOLhyphen"/>neidiau; ac or hon, y mae yn gorwedd hyd y dydd heddiw yn friwedig iawn, ac yn wan<g ref="char:EOLhyphen"/>hychlyd: Canys ef yr hwn (heb ganddo na dyledus <hi>barch</hi> na <hi>thrugaredd</hi> iw <hi>Jachawdwr</hi> anwyl nag iw <hi>fam)</hi> yn felldigedig a ddarni<g ref="char:EOLhyphen"/>odd ei gorph ef, ac a dynnodd ei gwaed hi<g ref="char:EOLhyphen"/>thau) mal yr oedd ef yn myned ymaith mewn gorfoledd efo ai <hi>Ddilynwyr,</hi> yn yr heol gwedi ei daro yn ddiſymwth gan <hi>Ddychryn,</hi> ac eiſiau arno ddattod carrau i eſmwythau ei gorph, yn y gaudy cyffredin (neſaf garllaw) yn gyffelyb i <hi>Judas</hi> a dywalltodd allan ei ber<g ref="char:EOLhyphen"/>fedd
+<pb n="11" facs="tcp:110144:8"/> ai ymwa garoedd yn dra-gofidus. <hi>Con<g ref="char:EOLhyphen"/>ſtantius</hi> yr Emerodr, yr hwn a roddaſai iw blaid ef yr anadl cyntaf o Awdurdod, (iw lla<g ref="char:EOLhyphen"/>wenydd mawr hwy ac alar yr Ecclwys) gan ei daro a chyſtudd, a fu farw or Parlys mud. <hi>Valens</hi> y coleddwr ar ymddiffyniad ir blaid honno, yr hwn ai nerth Emerodraidd, a <hi>bor<g ref="char:EOLhyphen"/>thodd</hi> y <hi>Fflam</hi> honno, a loſcwyd a <hi>thân,</hi> a enynnwyd trwy gynddaredd a chynddeiriog<g ref="char:EOLhyphen"/>rwydd eu dwylaw hwynt, eneidiau yr rhai a loſcaſai ef ar <hi>Schiſm</hi> honno. <hi>Anastaſius</hi> ei cefaill (mal y dywaid rhai) a darawyd a charreg taran, ac <hi>Olympius</hi> ei Gampiwr yn<g ref="char:EOLhyphen"/>rau (ar yr vn cyfrif, yn cablu y Drindod San<g ref="char:EOLhyphen"/>ctaidd wrth ymolchi) a darawyd a thair o gerrig y Daran.</p>
+            <p>Ac yn ol yr hwn yn ei fyw tros 40 ai at<g ref="char:EOLhyphen"/>toliodd yn rhyfeddol <hi>Athanaſius</hi> (yr hwn yn ail i <hi>Moſes</hi> a ſafai yn yr adwy i attal y tor<g ref="char:EOLhyphen"/>riad, mewn <hi>Cymanfa</hi> o gynylleidfa gaſgle<g ref="char:EOLhyphen"/>dig o bwrbas or <hi>Arrianiaid</hi> yn <hi>Antioch</hi> a gondemniwyd ar holl rai oi gwrthwyneb<g ref="char:EOLhyphen"/>wyr a erlidient; <hi>Alexandria</hi> ei ddinas ef a wnaed yn wag o bobl oll, <hi>Antioch</hi> ei hun, a <hi>Dinaſoedd</hi> y <hi>Dwyrain,</hi> a yſgydwyd felly, ac a ddiniſtriwyd gan <hi>Ddauargrynfau:</hi> Megis pe bai Dduw yn mynnu vddynt hwy ar holl fyd wybod wrth y <hi>Sugneddau</hi> newyddion hynny, y fath waith greſynus oedd fod or hên <hi>Fradwriaeth,</hi> neu r <hi>Gefeillach.</hi> Y mae <hi>Jud</hi> yn ei galw ffordd <hi>Corah,</hi>
+               <note place="margin">Jud ad <hi>11.</hi>
+               </note> (yn vnig y mae yn ei wneuthur yn llettach a rhedfa <hi>Cain</hi> a <hi>Balaam,</hi> ac yn rhoddi ei dihenydd iddi) ond bod <hi>Genau</hi> vffern yn traflyngcu yr <hi>Judde<g ref="char:EOLhyphen"/>waidd,</hi>
+               <pb n="12" facs="tcp:110144:9"/> a gwaelod a bol vffern yn cau ar y <hi>Cri<g ref="char:EOLhyphen"/>stion Corah.</hi> Ir rhai y cadwyd (nid y tan ar mwg eithaf, ond) <hi>Cadwynau tragywyddol tan dywyllwch.</hi> Ac (megis y cai rhai fyddent fyw yn y gwrthwynebiad hwn) fod yn ddiogel o hyn, mal y meirw hynny, ef a ddywaid; hwy a ddifethwyd (ſef yn barod.)</p>
+            <p>Dau nôd ar <hi>Schiſm</hi> mor hynod, a thrwy ddwylaw mor barchedig (ſef <hi>Apoſtolion</hi> Criſt a <hi>Barnedigaethau</hi> Duw) mal, os oes i ni na chariad ir nefoedd, neu ofn vffern, a wna i ni ddal <hi>ſulw</hi> arnynt. A hyn yw am<g ref="char:EOLhyphen"/>lygyn y pennodiad hwnnw, a diben ar air yr Apoſtol, gochelwch oll a nodwyd ag efo.</p>
+            <p>Ac ymadewch ag hwynt (am hynny) Ac mal y gwneler hyn yn ddoeth ac yn gy<g ref="char:EOLhyphen"/>flawn, rhaid i ni ei nodi drachefn yn y 1. gwraidd neu r <hi>achos,</hi> a chan weled hwnnw. 2. ei ſymud ef.</p>
+            <p>Pechod or cyfriw rywogaeth ddrwg, a gynnydda o ryw <hi>achos</hi> ddiffaeth.</p>
+            <p n="1">1. Y gyntaf yw <hi>Anwybodaeth.</hi> Anwybo<g ref="char:EOLhyphen"/>daeth or ſeiliau a wna yr <hi>agennau</hi> ar <hi>codym<g ref="char:EOLhyphen"/>mau</hi> hyn mewn adeiladoedd yſprydol, <hi>gor<g ref="char:EOLhyphen"/>modd bauch</hi> o bregethau, eiſiau bod yn dda <hi>oddidanodd</hi> mewn ſail <hi>Gweithredoedd.</hi> Pe goſodid pobl yngwyddorion y ffydd yn vni<g ref="char:EOLhyphen"/>on, ni yſgydwyd hwynt yn eu meddwl, i fyhwman a phob awel o ddyſgeidiaeth, nes ſyrthio i amryfuſedd,<note place="margin">Eph. 4.14. 2 The. 2.2. 2 pet. 2.14. 1 Jo. 2.19.</note> ac yno canlyn yr rhai ai hurweiniant trwy liw or gwirionedd (mal hadoliaeth i <hi>Schiſm).</hi> Yr rhai ſydd raid vddynt eu dwyn hwynt allan or Ecclwys, o herwydd na allant gael na <hi>Bywoliaeth,</hi> na
+<pb n="13" facs="tcp:110144:9"/>
+               <hi>Chynhwſiad</hi> ynddi. Ac mal y mae St. <hi>Hie<g ref="char:EOLhyphen"/>rom</hi> yn dal ſulw, nid oes vn Schiſm na ddy<g ref="char:EOLhyphen"/>chymyg ryw <hi>Hereſi</hi> iddi ei hun, mal y gallo ymddangos i ymado ar Ecclwys yn vnion. Yr Ecclwyfwyr diog ai <hi>Seguryd,</hi> neu ryw ddi<g ref="char:EOLhyphen"/>ben arall, am gynnwys hyn: Ar bobl o rag<g ref="char:EOLhyphen"/>farn, neu <hi>Falchder,</hi> ni oddefai rheini, madde<g ref="char:EOLhyphen"/>ued Duw vddynt yr <hi>Achos</hi> yma. Canys y bugeiliaid ar defaid a gyd gyfeiliornant, Triſt yw r effeithiau. Yr Ecclwys yn ddar<g ref="char:EOLhyphen"/>nedig alarus, o<g ref="char:EOLunhyphen"/>herwydd bod yr aelodau mot <hi>rhydd gymalog</hi> yn y corph. Ar gwirion a ſymudir gyd a <hi>phob awel</hi> o athrawiaeth, o ran diffyg <hi>pwys</hi> o <hi>feddwl pur</hi> gwaſdaitach.<note place="margin">Heb. 11.9. 2 Pet. 3.17.</note> Hwy a feiddiant groeſawu pobrhyw beth, newydd, neu ddieithr, neu <hi>berſon,</hi> a <hi>ffydd,</hi>
+               <note place="margin">Eph. 4.14.</note> vfudd-dod a defoſiwn <hi>(credu gwneuthur, gwe<g ref="char:EOLhyphen"/>ddio</hi> vnrhiw beth neu ym mhob man, eiſiau cael eu <hi>Cateceiſio</hi> yn <hi>foreuach,</hi> a chael cydna<g ref="char:EOLhyphen"/>byddiaeth well a hên <hi>Fannerau</hi> Crefydd <hi>(Y credo, deg gorchymyn,</hi> a <hi>gweddi yr Arglwydd.)</hi>
+               <note place="margin">2 Tim 1.13. 1 Tim. 1.7.</note> 10. Y maent hwy eu hunain yn barod: 1 egluro, ac eſponnio Dadcuddiad <hi>Joan,</hi> yr rhai ni ddyſcaſont etrioed bump llyfr <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> ac a fwriant fryd a chyfrif ar ddwy ar bymtheg wythnoſau <hi>Daniel,</hi> a mil o ſlyny<g ref="char:EOLhyphen"/>ddoedd St. <hi>Joan,</hi> yr rhai (os holir yn dda) ni fedrant roi cyfrif am y chwech o brif-bwng<g ref="char:EOLhyphen"/>ciau St. <hi>Paul.</hi>
+            </p>
+            <p n="2">2. Trachwant (yr hwn yn gyffredin ac yn naturiol a ganlyn anwybodaeth) a leda yr rwyg.<note place="margin">Dan. 9.24. Dad 20.6. Heb. 6.1, 2. <hi>Trachwant yn achos Schiſm,</hi> 1 Pet. 1.14. Jac. 4.1. 2 Tim. 3.6. &amp; 3.3. 2 Pet. 2.18. 1 <hi>Balchder achos o Schiſm.</hi>
+               </note> Rhyfeloedd yn yr Ecclwys a enyn<g ref="char:EOLhyphen"/>nir gan <hi>Drachwantau</hi> yn yr <hi>Aelodau,</hi> am fwrw ymaith <hi>llywodraeth,</hi> rheſwm vnion or
+<pb n="14" facs="tcp:110144:10"/> galon, <hi>gorfeddfa</hi> Duw, nid ofnant dorri cre<g ref="char:EOLhyphen"/>fydd yn ddwy, a gwahanu <hi>Teirnas</hi> Criſt. Y cyfriw ryfeloedd a gaiff ddigon o flaenori<g ref="char:EOLhyphen"/>aid.</p>
+            <p n="1">1. <hi>Balchder</hi> yw r pennaf. Yr hwn a wnaeth y <hi>Schiſm</hi> gyntaf ym mhlith Ange<g ref="char:EOLhyphen"/>lion. Ac a wna r cwbl oll ym mhlith y Seinctiau, megis y gwnaeth <hi>Diotrephes.</hi> Y balchder hwn (gan mwyaf yw r fam or Ta<g ref="char:EOLhyphen"/>dau ar plant.<note place="margin">3 Joa. ad. 9.</note> Canys i ddynion gwirion gael eu gwneuthur yn ddoethach nar holl fyd Criſtnogawl ei blaen hwynt, ac yn well ac yn anwylach gan Dduw, nai holl hên Seinctiau eraill,<note place="margin">Pſa. 32.</note> y mae hyn yn hudo yn dôſt gyd a phobl druain (yr rhai nid oes arnynt eiſiau balchder.) Ac yno pa fath <hi>Arglwyddi</hi> a <hi>thywyſogion</hi> o bob <hi>doethineb</hi> a <hi>daioni</hi> ſydd raid vddynt hwy fod yr rhai a feidr ac a rydd y cyfriw ddonniau mawrion oi gwybodaeth ai <hi>Gras</hi> iw pobl. A hynny ai dwg ymaith gyda <hi>Simon Magus.</hi>
+               <note place="margin">2 Pet. 2.18. Act. 8.9.</note> Rhai mawrion a fy<g ref="char:EOLhyphen"/>ddant, yn ffordd yr Ecclwys nis gallant. Allan am hynny yr ânt. A rhaid i rai fod i <hi>ryfeddu</hi> eu mawredd. A hynny a wna r dyn gwirion yn hawſaf; Am hynny hwy a <hi>Wyr<g ref="char:EOLhyphen"/>droant</hi> yr rheini,<note place="margin">
+                  <p>
+                     <hi>Act. 8.9, 10, 11.</hi>
+                  </p>
+                  <p>Gormodedd. Achos o Schiſm.</p>
+               </note> ac ai dygant hwy allan or Ecclwys gyd ag hwynt.</p>
+            <p n="2">2. Ac yn fynych yr arwain cylla <hi>newynog</hi> gyd ag vn vchel. Canys yn Gyffredin yr A<g ref="char:EOLhyphen"/>thrawon newydd yma yn erbyn yr Ecclwys, ydynt yn chwarae r <hi>Siaplen</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e goren r <hi>Saig.</hi> Eu <hi>Pulput</hi> gan hynny ydyw r <hi>Bwrdd</hi> a waſanaetha yn dalgrwn i <hi>bregethu</hi> ac i <hi>fwyta</hi> arno, ai canllynwyr (yn fynych yn
+<pb n="15" facs="tcp:110144:10"/> dlodion) yn caru y cyfriw flaſus ac iachus <hi>Athrawiaeth,</hi> ac ydynt yn hoffi y fath <hi>braw<g ref="char:EOLhyphen"/>fiadau</hi> a <hi>phyngoiau</hi> cyſſurus, ac ydyw <hi>Sir dda</hi> yn ol <hi>Pregethau.</hi>
+               <note place="margin">2 Pet. 2.13. Jud ad 12.</note> St. <hi>Peter</hi> ai geilw hwynt (nid <hi>ymprydwyr</hi> ond <hi>gwleddwyr)</hi> a St. <hi>Jud</hi> ai geilw yn frychau yn eich cariad wleddau chwi, mal hyn; yno yn cydwledda yn eu peſci eu hunain yn ddiofn (er bod yn yr Ec<g ref="char:EOLhyphen"/>clwys, oll ar <hi>betruſder.)</hi>
+            </p>
+            <p>A phwrs llawn a brŷn <hi>Schiſm</hi> yn fynych,<note place="margin">Cybydd-dra achos o Schiſm.</note> ac ai dwg ym mhlaen. Mal y prynir ac y gwerthir y bobl druain (eneidiau a chyrph) mal eillion caeth ac anifeiliaid gan <hi>Ferſian<g ref="char:EOLhyphen"/>dwyr Babilon</hi> mal y Dadcuddia St. <hi>Joan;</hi> fod gwyr awyddus dichellgar, yr rhai a gyme<g ref="char:EOLhyphen"/>rant arnynt <hi>gadw</hi> eneidiau i <hi>ogoniant</hi> Duw; eithr yngwirionedd eu gwerthu hwynt iw helw gorau eu hunain:<note place="margin">2 Pet. 2.3.</note> mal y dengys Saint <hi>Peter. A thrwy gybydd<g ref="char:EOLunhyphen"/>dod a chwedlau gwneuthur, y gwnant farſiandiaeth o<g ref="char:EOLunhyphen"/>honoch:</hi> Ac nid rhyfeddod er vddynt hudo, a thwyllo llawer. Canys hwy a ddyſgwyd ac a ddyg<g ref="char:EOLhyphen"/>wyd i fynu yn dda yn y gelfyddyd. <hi>Calon ſydd yn gynefin ganddynt i ymarferion cybyddion.</hi> Hyn a wna vddynt hwy wneuthur <hi>marchnad<g ref="char:EOLhyphen"/>fa</hi> or Ecclwys, gan ganlyn ffyrdd <hi>Balaam yr hwn a garai wobr anghyfiawnder.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:110144:11"/>Mal hyn y mae tri Apoſtol yn rhoi eglurwch o <hi>Arddangoſiadau</hi> pa beth ydyw y neullduol<g ref="char:EOLhyphen"/>wyr, er tecced y dychymygant reſwm tro<g ref="char:EOLhyphen"/>ſtynt; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ôd <hi>Judas,</hi> Bol <hi>Epicurus,</hi> a chadair <hi>Lucifer</hi> ywr <hi>Achos.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>3.</hi> Achos Bywyd dry<g ref="char:EOLhyphen"/>gionus. Achos o Schiſm.</note>
+               <hi>DRygioni</hi> bywyd, dilynwr trachwant, ſydd <hi>arweinydd</hi> i Schiſm hefyd. Yn gy<g ref="char:EOLhyphen"/>ſtal yn y <hi>bai<g ref="char:punc">▪</g>
+               </hi> ac yn y <hi>farn,</hi> neullduolwyr a ymddangoſant yn <hi>Seinctiau,</hi> eithr nid ydynt. Ni allant fod o<g ref="char:EOLunhyphen"/>herwydd gan fod y meddwl ar ewyllwys (ffynonnau gweithredoedd dy<g ref="char:EOLhyphen"/>nol) wedi eu gwenwyno a <hi>chamwedd,</hi> ac a <hi>thrachwant,</hi> thaid yw iw bywyd fod yn lli<g ref="char:EOLhyphen"/>feirio o <hi>gyndynrhwydd</hi> gwrthwynebus: A chyfion yw gyd a Duw, na chai yr rhai a ro<g ref="char:EOLhyphen"/>dient ynghwrthwyneb ei oleuni ef, ai cyd<g ref="char:EOLhyphen"/>wybod eu hunain, (allan o <hi>oleulwybr</hi> yr Ec<g ref="char:EOLhyphen"/>clwys,) ei gadwraeth ai fendith ef. O eiſiau yr hyn, y daw eu heneidiau yn yſglyfaeth i yſpeilwyr y <hi>Gwirionedd</hi> Criſtnogawl, ar dyng<g ref="char:EOLhyphen"/>hneddyf, nes vddynt hwy eu hunain droi yn lladron hefyd, heb eu gweled eirioed yn llwybr Duw oddieithr i yſpeilio ynddo. Ac yno hwy a ddeuant yn ei <hi>gaſgl</hi> ef, yr hwn a fydd digon ſiwr iw gyrru hwynt yn ddigon pell oddiwrth yr Ecclwys, rhag iddo ef golli ei <hi>wobr</hi> oi eneidiau hwynt, yr rhai trwy <hi>Schiſm</hi> a gafodd ef iw <hi>feddiant.</hi> O ni bai hynny, fe fyddai cimaint <hi>rhyfeddod</hi> a galarwe<g ref="char:EOLhyphen"/>led y fath niferoedd o yſpeilwyr nid yn vnig oi <hi>Criſtnogawl</hi> ond oi <hi>cyffredin brif-byngciau,</hi>
+               <pb n="17" facs="tcp:110144:11"/> o Reſwm ac honeſtrwydd. Ac a <hi>arweinir</hi> ymaith cym mhelled i fyned tu hwnt i Schiſm, i wrthgiliad hefyd, ie i ben pellaf <hi>Anghrediniaeth.</hi> Yn gyntaf am-mherchi, yno gado, ar ol hynny gwadu yn gyſtal yr Ecclwys i <hi>ymgadw</hi> ynddi,<note place="margin">2 Theſ. 2.8. Pſal. 109.5.</note> neu Griſt i fod yn <hi>gadwedig</hi> trwyddo neu Dduw iw waſanae<g ref="char:EOLhyphen"/>thu dim arno. Neu <hi>Grefydd</hi> iw waſanaethu ef. Neu nefoedd iw gaeſam y gwaſanaeth. Eithr hyn y mae nerth <hi>Siomedigaeth</hi> yn ei wneuthur. Gan fod <hi>Satan</hi> wedi oſod ar y llaw <hi>Ddehau</hi> ir rhai a adawo yr Ecclwys ar yr <hi>aſſwy.</hi> Gan fyned i mewn vddynt o hyn allan, ai cadw hwynt yn ei <hi>Gappel,</hi> ac wrth ei <hi>Ddefoſiwn,</hi> trwy felldith Dduw a Barn-gyfion.<note place="margin">Eſa. 6.10. Act. 28.26, 2 Pet. 2.1. Jud ad 4.</note> Felly y <hi>dygant arnynt eu hunain diniſtr buan:</hi> (tra echryſlawn ofidus am eu <hi>Athrawiaeth Wyrdraws)</hi> ir hwn, am yr anuwioldeb mawr hwnnw, <hi>y rhag ordeiniwyd hwynt er eſtalm.</hi>
+            </p>
+            <p n="4">4 <hi>Gwrthwynebiad</hi> i drefn yr Ecclwys, a yr y <hi>gymyſgedd warthus</hi> hon i fryſio rhagddi.<note place="margin">
+                  <hi>4.</hi> Achos gwrthwyne<g ref="char:EOLhyphen"/>bu trefn.</note> Yn enwedig i drefn <hi>oruchel Apoſtolaidd.</hi> Nôd St. <hi>Joan</hi> am dwyllwyr yw: <hi>dwyn athrawiaeth arall.</hi> Am yr hon ni ddylent gael <hi>rad Duw ar eu gwaith.</hi> Arwydd St. <hi>Paul</hi> am Schiſma<g ref="char:EOLhyphen"/>ticiaid, eu bod yn glynu wrth Athrawon ne<g ref="char:EOLhyphen"/>wydd, a dychymygion yn erbyn yr hên Gre<g ref="char:EOLhyphen"/>fydd, ar Rheol; Am hynny gadawn ni vddynt <hi>fyned ymaith.</hi> Ni fyn St. <hi>Cyprian</hi> ir <hi>lled<g ref="char:EOLhyphen"/>fegyn Schiſm</hi> gael vn <hi>Tad</hi> arall, ond dirmyg yr <hi>Eſcob,</hi> o waith rhyw <hi>offeiriadau,</hi> a <hi>phobl coeg<g ref="char:EOLhyphen"/>feilchion.</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:110144:12"/>Ac nid yw <hi>Cymanfa Conſtaentinopl</hi> yn arbéd roi nôd diffaeth ar yr rhai <hi>a broſſeſant yr v<g ref="char:EOLhyphen"/>nion-wir ffydd, ac a wnant goſgliadau a chyny<g ref="char:EOLhyphen"/>lleidfau yn erbyn y drefn ganonical ac Eſco<g ref="char:EOLhyphen"/>baidd.</hi> Heb fod yn <hi>ſubordinat</hi> neu dan-rag<g ref="char:EOLhyphen"/>ordeiniawl: ni ddichon hynny fod yn iawn. (Canys ni eill fod trefn ym mhlith gwyr, o gyd radd Gyda rhai, y bydd <hi>ymbleidio</hi> ac <hi>ym<g ref="char:EOLhyphen"/>wahanu.</hi> Ni eill fod vndeb ac iawn drefn yn ymwared rhag y cyfriw ddrygioni y mae St. <hi>Hierom.</hi> Ei hunan yn cydnabod anghen<g ref="char:EOLhyphen"/>rhwydd <hi>Eſcobion.</hi> Gan nad oes vn ffordd arall, yn erbyn y cymyſgedd hynny, ond y drefn hon ar Andurdod.</p>
+            <p n="5">
+               <note place="margin">
+                  <hi>5</hi> Achos o Schiſm gado gwe<g ref="char:EOLhyphen"/>ddian r Ecclwys.</note>5 A dibriſio a rhoi heibio <hi>Weddiau</hi> r <hi>Ec<g ref="char:EOLhyphen"/>clwys,</hi> ſydd ſpardyn i fryſio <hi>neullduad.</hi> Yngwi<g ref="char:EOLhyphen"/>rionedd, <hi>Schiſm</hi> ei hun ydyw dorri y Cy<g ref="char:EOLhyphen"/>mun hwnnw. As os ydyw St. <hi>Paul</hi> yn dad<g ref="char:EOLhyphen"/>lau yn vnion, Gwrthgiliad a ddigwydd or gwyrdrouad hwnnw, (cwymp oddiwrth ffydd ar y torriad cariad hwnnw yn fynych:) eithr aſgell o <hi>Schiſm</hi> bob amſer, medd Saint <hi>Awſtin.</hi> Oddiwrth yr hon y mae ef yn rhydd<g ref="char:EOLhyphen"/>hau rhai, ac yn rhybuddio eraill rhagddi, trwy yr <hi>Eglurwch</hi> hwn ar <hi>ddadl</hi> am ofalu na wnelont <hi>ymgaſglau</hi> a <hi>chynylleidfau</hi> neulldu<g ref="char:EOLhyphen"/>ol. Eithr yn rhoi <hi>nôd</hi> gwradwyddus ar yr rhai a ymddigrifant i wneuthur hynny. Ar ddau yn gyfion. Canys neullduaeth oddi<g ref="char:EOLhyphen"/>wrth yr Ecclwys <hi>Gatholic</hi> neu (yr hyn) ſydd gimaint) oddiwrth vn Ecclwys neullduol o<g ref="char:EOLunhyphen"/>honi ac mewn Cymun ag y hi,<note place="margin">Gen. 4.26.</note> i attal cy<g ref="char:EOLhyphen"/>fundeb
+<pb n="19" facs="tcp:110144:12"/> mewn gweddiau, hyn yw <hi>Schiſm</hi> yn briodol.</p>
+            <p>A chan i Dduw ei hun wneuthur oll ddu<g ref="char:EOLhyphen"/>wioldeb yn <hi>weddi,</hi> Ar vnig le i hyn,<note place="margin">1 Cor. 1.20. Mat. 21.13. Eph. 4.3.</note> yr Eccl<g ref="char:EOLhyphen"/>wys, a elwir am hynny <hi>y Gweddi.</hi> Gan fod yr holl vndeb o wirionedd a chariad oddi<g ref="char:EOLhyphen"/>wrth yſpryd Criſt, ar holl addewid o hynny yn vnig mewn <hi>cydymgyfarfod,</hi> ir cyfriw we<g ref="char:EOLhyphen"/>ddiau. Gan fod holl ofal o gynnal i fynu yr vndeb hwnnw a roddwyd i <hi>ddoethineb</hi> a duwioldeb yr <hi>Ecclwys</hi> wedi ei wneuthur am hynny, <hi>yngolofn</hi> y <hi>gwirionedd,</hi>
+               <note place="margin">Rhy. 5.5. Mat. 18.20. 1 Tim. 3.15.</note> ac yn gyny lleid<g ref="char:EOLhyphen"/>fa y <hi>Sainct;</hi> lle y mae hi (trwy ei <hi>Athrawi<g ref="char:EOLhyphen"/>aeth</hi> ai <hi>Dofoſiwn</hi> yn cyflawni ei ymddi<g ref="char:EOLhyphen"/>ried) gan fod yn ſail ac yn <hi>gyfle</hi> ir Golofn hon.</p>
+            <p>Y rhai a wrthodant ymgyfarfod ynddi, ac a gyll y bendithiau hynny, haid vddynt gael eu melldithio a <hi>chaſglau,</hi> lle o eiſiau colom i ddal i fynu y gwirionedd y trobaeddir hwynt a beiau, ac y llethir hwynt a Schiſmau. Wedi eu dal yn gyfion mewn <hi>camwedd</hi> ac <hi>anghari<g ref="char:EOLhyphen"/>adoldeb.</hi> (Y ddwy law hynny o eiddo r cy<g ref="char:EOLhyphen"/>thrael) yr rhai ai reifl eu hunain allan a <hi>fonwes Duw,</hi> a <hi>breichiau</hi> yr <hi>Ecclwys,</hi> yn wradwyddus am dorri <hi>trefn</hi> eu <hi>Tad,</hi> ac yn ddifendith am ddirmygu <hi>gweddiau</hi> eu <hi>mam.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:110144:13"/>Mal yr yſcrifenwyd y pethau yma yn wyddorion <hi>argraphedig</hi> o waith yr Apostolion, felly y mae yn hawdd eu <hi>dirnad</hi> ym <hi>mucheddau</hi> neullduolwyr. Canys y <hi>gwyrdroedig</hi> (er bod rhai a meddyliau da) ydynt oll <hi>animalau</hi> neu <hi>greaduriaid gwirionaidd.</hi> Yr hudolwyr. <hi>anifeiliaid</hi> ynfydion, <hi>tr thyll</hi> yn eu calonnau, a <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hydd</hi> yn eu bywyd. Celynnion gan hynny i lywodraeth ac Awdurdod, yr hyn a <hi>gerydda</hi> y <hi>beiau</hi> hynny. A gwibiaid a diethriaid ewyl<g ref="char:EOLhyphen"/>lyſcar ir Ecclwys i ochelyd y cerydd hwnnw.</p>
+            <p>
+               <hi>SChiſm</hi> a wna <hi>rwygiad</hi> yngorph Criſt, a haint yn yr Ecclwys. I golli enediau. Oddiwrth <hi>wahanglwyf</hi> pechod, iw goruwch<g ref="char:EOLhyphen"/>guddio. Cymerwch ei feſur yn vnion ai holl <hi>faintiolaethau</hi> ydynt gythreulig. Uchder dry<g ref="char:EOLhyphen"/>gioni, gyda dyfnder true ni yw, hyd eithaf co<g ref="char:EOLhyphen"/>ſpedigaeth, oddiwrth <hi>led</hi> llygredigaerh. Tros y meddwl, y galon, y bywyd, yr yſpryd, yr enaid. Felly os ni a wnawn ddim er mwyn Duw gochelwn ef, o<g ref="char:EOLunhyphen"/>herwydd ei fod yn gi<g ref="char:EOLhyphen"/>maint pechod yn ei erbyn ef. Os er mwyn Criſt, am ei fod yn gimaint <hi>briw</hi> iddo ef. Os er mwyn yr <hi>Ecclwys,</hi> am ei fod yn gimaint colled iddi hi. Os er mwyn ein eneidiau, o<g ref="char:EOLunhyphen"/>herwydd ei fod yn gimaint <hi>dinistr</hi> vddynt hwy. Os er mwyn ein bywyd o<g ref="char:EOLunhyphen"/>herwydd ei fod yn ddeſtruwiad ir rheini. Os er mwyn y Deirnas o<g ref="char:EOLunhyphen"/>herwydd ei fod yn gimaint <hi>rhwygiad</hi> iddi. Os er mwyn y byd, o<g ref="char:EOLunhyphen"/>her<g ref="char:EOLhyphen"/>wydd
+<pb n="21" facs="tcp:110144:13"/> ei fod yn <hi>gwymp</hi> o <hi>fethiant</hi> iddo. Os er mwyn y ddauar, o<g ref="char:EOLunhyphen"/>herwydd ei melldith yw. Os er mwyn y nefoedd, o<g ref="char:EOLunhyphen"/>herwydd y gelyn pennaf iddi. Oni wnawn ni ddim er mwyn vffern, o<g ref="char:EOLunhyphen"/>herwydd cefeill gorau diafol ydyw. Mogel a gochel ef gan hynny, onid oes achos?</p>
+            <p n="2">2 A <hi>lladd</hi> yr aderyn yn yr <hi>wy.</hi> Ffo rhag yr achos, dyna y ffordd iw ochel ef. Ffo rhag <hi>anwybodaeth,</hi> megis rhag <hi>neidr,</hi> rhag <hi>trach<g ref="char:EOLhyphen"/>want</hi> megis rhag <hi>vffern,</hi> rhag <hi>balchder</hi> megis rhag <hi>Lucifer,</hi> rhag gormodedd,<note place="margin">Pſa. 1. Dad. 18.2. 1 Tim. 6.9. Eccle. 21.2. 1 Sam. 15.23.</note> megis rhag yſpryd aflan, rhag <hi>cybydd dod,</hi> megis rhag <hi>Temptiwr.</hi> Rhag pechod megis rhag ſarph, rhag <hi>Gwrthryfel</hi> mal rhag <hi>Dewines,</hi> rhag <hi>cyd<g ref="char:EOLhyphen"/>gaſglau</hi> mal rhag <hi>tai heintus:</hi> Hyn yw, cy<g ref="char:EOLhyphen"/>meryd ymaith <hi>Dad, mam, mamaeth, ceidwad, arweinydd</hi> allan o feddwl, o galon o fywyd, yſpryd, a ffordd: ac felly rhaid iddo bendyfa<g ref="char:EOLhyphen"/>du, newynu, rhynnu, a diflannu.</p>
+            <p>Yn enwedig os gwnawn wrthwyneb<g ref="char:EOLhyphen"/>waith i <hi>Schiſm,</hi> ai gyfarfod ef ac <hi>ymwiſcoedd</hi> gwrthwyneb ac a gweithredoedd o Ras, yr rhai ni chynnwyſant iddo ddyfod ym mlaen,<note place="margin">2 Pet. 3.17, 18. 2 Tim. 3.6. 2 Tim. 4.3. 2 Pet. 4.3. 2 Pet. 2.18. Eſa. 65.5. Phi. 2.3.</note> eithr ei gadw yn ol. Trwy Athrawiaeth well, byddwch wedi eich ſeilio yn y gwirio<g ref="char:EOLhyphen"/>nedd, felly ni rydd <hi>anwybodaeth</hi> mo<g ref="char:EOLunhyphen"/>honoch yn yſglyfaeth i <hi>hudolwyr.</hi> Gwarchewch eich <hi>trachwantau,</hi> a dyfal <hi>farweiddiad,</hi> ac ni ar<g ref="char:EOLhyphen"/>weinir mo<g ref="char:EOLunhyphen"/>honoch ymaith iw <hi>maglau</hi> hwynt.</p>
+            <p>
+               <pb n="22" facs="tcp:110144:14"/>Byddwch fwy <hi>gostyngedig,</hi> heb fyned yn ol eich chwantau anuwiol eich hun, dowch yn anfynychach i <hi>fwrdd gloddeſtwr,</hi> a chwi a ymgedwch yn well at <hi>fwrdd Duw.</hi> Trwy ymwareddiad ſancteiddiolach, delwch yn dynn wrth eich <hi>rheolau,</hi>
+               <note place="margin">
+                  <p>Jud ad 16. 1 Cor. 10.21. 1 Cor. 11.18. 1 Tim. 1.19. &amp; 3.9.</p>
+                  <p>Heb. 13.7, 9. Phi. 3.27. Heb. 10.26.</p>
+               </note> ac ni redwch ar amcan ar ôl <hi>tuedd bleidiau.</hi> Ymoſtyngwch yn vfudd ir rhai a oſododd Duw i lywio ar<g ref="char:EOLhyphen"/>noch, ac ni hudir mo<g ref="char:EOLunhyphen"/>honoch mor fuan gan offerau y cythrael. Trwy <hi>ddefoſiwn</hi> mwy ewch ar luniau, a ſefwch wrth weddiau yr Ecclwys, a thrwy fendith Dduw, a hithau, ni chwympwch i ddwylaw eich gelynnion, yſprydol chwi a hithau.</p>
+            <p>Gwybodaeth bur a ffurfia y meddwl felly mewn gwirionedd. Marwhâd a gydffurfia y galon, <hi>vfudd-dod</hi> iddo ai <hi>gynhalwyr</hi> ef, felly a waſtada y ddau; a gweddi a ymddiffyn, ac a gadarnha y cwbl oll; mal y caffom ſefyll trwy allu Duw yn anoreſcynnol mewn ffydd Griſtianogawl, a chariad, in cadw ein hunain yn gadwedig oddiwrth friwiau marwol am<g ref="char:EOLhyphen"/>ryfuſedd a <hi>thueddblaid</hi> yn dragywydd. <hi>Mar<g ref="char:EOLhyphen"/>wol</hi> meddaf fi. Canys y cyfriw <hi>Schiſmau</hi> a dery ac a ad eneidiau yn farwol. Marwol ir yſpryd, a chladdedig yn y cnawd. Felly y mae oll <hi>wneuthurwyr pleidiau,</hi> ar holl <hi>bleidwyr</hi> he<g ref="char:EOLhyphen"/>fyd, Canys oll mewn Schiſm a ymgyſylldant i wneuthur plaid neu ſect. Ac ydynt mewn cyflwr marwol damnedig a feiddiant wneu<g ref="char:EOLhyphen"/>thur hynny. <hi>Yn gnawdol heb fod yr yſpryd gan<g ref="char:EOLhyphen"/>ddynt.</hi>
+            </p>
+            <p>
+               <pb n="23" facs="tcp:110144:14"/>Swyn gyfaredd yn erbyn <hi>neullduaeth</hi> neu <hi>ddidoliad</hi> yw hyn,<note place="margin">
+                  <p>2 Pet. 1.2, 12. Jud ad 12.19.</p>
+                  <p>Jud ad 19.</p>
+               </note> ar rhinweddau ydynt wir <hi>iachuſol.</hi>
+            </p>
+            <p n="1">1. Ir cwympedig iw adgyfodi.</p>
+            <p n="2">2. I hwnnw a hurtlodd, mal na chwym<g ref="char:EOLhyphen"/>po.</p>
+            <p n="3">3. Ir hwn ſy n ſefyll, mal na <hi>hurtio.</hi> Prif feddyginiaeth oll, os craffwn arno yn vnion, ac os cymerwn, mal <hi>Antidôt Tertwlian,</hi> trwy fendith Dduw arno, felly y geill pawb ſydd arnynt ei eiſiau, ei gymeryd.</p>
+            <p>Chwychwi yr rhai a gympodd. 1. I ba<g ref="char:EOLhyphen"/>byddiaeth allan or Ecclwys. Onid yw nôd yr anifail yma och amgylch chwi, ar eich monwes ach bol? holwch ddirgelion eich eneidiau, a dywedwch, onid <hi>Anrhydedd</hi> neu <hi>newyn</hi> ach tynnodd chwi allan, ond bara a wnaeth y gorchwyl? Neu <hi>gynheliaeth,</hi> ſef angenog fara, neu dderchafiad ſef Bara y gwr balch? Ai cydwybod a wnaeth hyn<g ref="char:EOLhyphen"/>ny, air bol? Ai troi trwy orchfygiad rheſwm ai <hi>codiad</hi> ai gwnaeth? Dwedwch, dywed<g ref="char:EOLhyphen"/>wch i Dduw yr hwn a wyr eich calonnau, pa vn ai <hi>eiſiau</hi> ai <hi>diben,</hi> (heblaw y gwario<g ref="char:EOLhyphen"/>nedd) a chwaradd ran y <hi>Jeſuit</hi> yn orau, a wthiodd y rheſwm neu r ddadl orchfygol hwn yn fwyaf ar eich cydwybod. Os ydych chwi (mal y geill rhai fod) yn lân oddiwrth <hi>Frychewyn</hi> Saint <hi>Paul,</hi> onid yw hynod<g ref="char:EOLhyphen"/>rwydd Saint <hi>Jud</hi> arnoch chwi? <hi>Heb fod gennych yr yſpryd.</hi> I wybod rhagoriaeth rhwng galar a Phechod yr Ecclwys.</p>
+            <p>
+               <pb n="24" facs="tcp:110144:15"/>Yr amſer on <hi>Anghriſtnogion</hi> lawer ni, ach vn chwithau.</p>
+            <p>Canys chwi a ddwedwch, <hi>Aberth gyhoe<g ref="char:EOLhyphen"/>ddus</hi> yr holl Ecclwys a <hi>baid,</hi> a holl alar dy<g ref="char:EOLhyphen"/>chymygol a fydd arni. Y pryd hynny: neu i <hi>ddirnad peintiad</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eg yr offeiriad, ar wyneb ei <hi>Grefydd,</hi> lle bo mawredd galluog yn cichio arni, ac arfer drwſgl o<g ref="char:EOLunhyphen"/>honi yn y <hi>bobl,</hi> lle by<g ref="char:EOLhyphen"/>ddo y Deirnwialen, yn tueddu <hi>Wynepryd</hi> atti?</p>
+            <p>Neu i ddirnad rhwng yr vnrhiw ddaioni, mewn cefaill, ac mewn <hi>dieithrddyn,</hi> ac am hynny i ryfeddu oll bethau mewn gwlad <hi>ddieithr,</hi> or hyn nid ydych yn dal ſulw arno <hi>gartref.</hi> Lle wrth reol gyffredin Crefydd, (Chriſtnogawl Gatholic ac nid yn neullduol felly) y dylych chwi ac eraill wneuthur yr vnrhiw ddaioni! Un ai na welech ragori<g ref="char:EOLhyphen"/>aeth rhwng <hi>rheolau</hi> yr Ecclwys, ar <hi>Perſo<g ref="char:EOLhyphen"/>nau</hi> ynddi. Ac na welech felly nad oes yr vn mor dywyll a honno o <hi>Rufain.</hi> Yn yr hon eich Pabau chwi (lawer o<g ref="char:EOLunhyphen"/>honynt) mal y cy<g ref="char:EOLhyphen"/>faddef ſcrifen rhai o<g ref="char:EOLunhyphen"/>honoch, a argraphir ac a nodir am berſonau tra-chythreulig.</p>
+            <p>Wrth y <hi>cymeriad</hi> hwn, oni ddylai <hi>Maho<g ref="char:EOLhyphen"/>met</hi> fod yn fwy prophwyd na Chriſt, o<g ref="char:EOLunhyphen"/>her<g ref="char:EOLhyphen"/>wydd bod ei <hi>Gamwedd</hi> yn <hi>Llwyddianus?</hi> A <hi>Rhufain</hi> anghredadwy gynt yn llai <hi>Babilon</hi> na <hi>Rhufain</hi> Griſtnogawl, o<g ref="char:EOLunhyphen"/>herwydd nad oedd mo rai oi Emerodwyr cynddrwg <hi>Plâ,</hi> neu <hi>ddialedd</hi> ai rhai <hi>Pabau?</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:110144:15"/>Oni ddylai y Criſtion <hi>Catholic</hi> fod yn fryntach nar <hi>Heretic,</hi> anwylyd <hi>Salomon</hi> na <hi>Jezebel?</hi>
+            </p>
+            <p>Oblegit ei bod hi yn peintio yn dra theg? Na oni ddylai yr Iddew fwrw i mewn am y gynglwyſt ai dwyn oddiar bawb oll, o ran y maent yn credu ir gwir Dduw, gyſtal a nin<g ref="char:EOLhyphen"/>nau?</p>
+            <p>Ei brophwydi, yw eu Tadau an deg <hi>orchy<g ref="char:EOLhyphen"/>myn,</hi> eu <hi>difinyddiaeth?</hi> Cyfodwch gan hyn<g ref="char:EOLhyphen"/>ny yn enw Criſt, na orweddwch mewn <hi>trachwant</hi> neu <hi>gamwedd,</hi> Cymerwch afael (a barn well ac a chydwybod) yn nwylaw yr Apoſtolion, o dowch i fynu och codwm drachefn.</p>
+            <p>Chwychwi yr rhai a gwympodd oddi<g ref="char:EOLhyphen"/>wrth yr Ecclwys, onid aethoch allan oddi<g ref="char:EOLhyphen"/>wrth eich dyledſwydd; onid aethoch oi <hi>Chefeillach</hi> hi, beth ach taflodd chwi i <hi>lawr?</hi> Cariad ar Dduw, ai ar y <hi>byd?</hi> Cydwybod, ai <hi>Cynhalideth? Gwirionedd, ai budd?</hi> Dy<g ref="char:EOLhyphen"/>wedwch yn eich eneidiau, (rhaid i chwi atteb hynny ryw ddydd) Pe rhoeſai r bobl i chwi Groeſaw Saint <hi>Paul</hi> am eich dyſcy<g ref="char:EOLhyphen"/>bliaeth newydd,<note place="margin">Gal. 1.8. 2 Joa. ad 10.</note> (ni ddyſgaſid ac ni arferid y pryd hynny) ni welwyd ond o fewn y can<g ref="char:EOLhyphen"/>mhlynedd diwaethaf, yn y byd Criſtnogawl: neu <hi>gyfarchiad</hi> St. <hi>Joan</hi> ſef na ddyweder Duw yn rhwydd ich newydd <hi>Efangyl,</hi> ac <hi>Am<g ref="char:EOLhyphen"/>mhoſtolaidd</hi> Athrawiaeth?</p>
+            <p>
+               <pb n="26" facs="tcp:110144:16"/>Neu y cyfriw ac a gafas <hi>Aerius</hi> ai ddilyn<g ref="char:EOLhyphen"/>wyr (eich rhagflaenwyr chwi) <hi>Eich gadael i grwydro trwy goedydd a chauau mewn eira a hin chwerwdoſt arall, a holl ddryſau i gau rhagoch am eich cyffelyb bregethiad.</hi> Pe gwnaethai wyr o Allu a chwychwi mal y gwnaeth <hi>Constantin</hi> a <hi>Theodoſius</hi> i <hi>Aflo<g ref="char:EOLhyphen"/>nyddwyr</hi> Ecclwys Dduw, (yr <hi>Arriani<g ref="char:EOLhyphen"/>aid</hi> ar <hi>Neſtoraniaid)</hi> lloſci eu llyfrau, tor<g ref="char:EOLhyphen"/>ri pennau eu cynnorthwywyr, rhoddi carcharau i chwithau, yn lle derchafiad, dif<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ddiadau yn lle rhentoedd eglwyſic, coſp yn lle gwobr, Aethwladiad yn lle cyſſur<g ref="char:EOLhyphen"/>deb; gwradwydd, yn lle cymeriad? Pe daethai fudd a chymeriad mor wrthwyne<g ref="char:EOLhyphen"/>bus yn eich ffordd, ac y daethant yn <hi>deg,</hi> aech chwi ym mhlaen yn eich yrfa breſen<g ref="char:EOLhyphen"/>nol?</p>
+            <p>Dywedwch y gwirionedd ynghriſt, nid celwydd, pa vn ai meddwl <hi>Demas</hi> neu gynnwrf <hi>Diotrephes?</hi>
+               <note place="margin">Y cyntaf yn olaf ar mwyaf yn lleiaf. <hi>Aug.</hi>
+               </note> Calon y <hi>Donatiſt</hi> balch. oni bai hynny <hi>Primianus</hi> a fuaſai <hi>Postremeanus,</hi> a <hi>Maximinianus Minimia<g ref="char:EOLhyphen"/>nus.</hi>
+            </p>
+            <p>Oni bai hynny chwi a fuaſech yn gor<g ref="char:EOLhyphen"/>wedd yn llonydd yn eich hên dywyllni, ach <hi>tylodi,</hi> neu or lleiaf ni chodaſech chwi mor vchel, ac ni allaſech obeithio hyn<g ref="char:EOLhyphen"/>ny. Oedd i <hi>Falchder, Afradlonrhwydd, elw,</hi> vn llaw, nag vn bys yn y matter yma?</p>
+            <p>
+               <pb n="27" facs="tcp:110144:16"/>Onid cybydd-dod oedd i gael cynnel<g ref="char:EOLhyphen"/>glyd cyfoethog-le o <hi>Feiddiannau</hi> a <hi>Phorfe<g ref="char:EOLhyphen"/>nydd,</hi> er eu bod o eiddaw eraill? Balchder am y cnŷau uraid, ar gorſeddfau, er eu bod o <hi>braidd</hi> rhai eraill? Newynu ar oll <hi>ſir</hi> dda a <hi>Chymeriad,</hi> er ei bod o fara eraill, a <hi>gogan?</hi> Onid ydyw ddim o hyn na thebyg (mal ond odid gyd a rhai nid ydyw.)</p>
+            <p>Ydych chwi wedi eich nodi ar <hi>yſpryd glân,</hi> yr rhai a <hi>ymryſonwch</hi> am hwnnw, yr hyn yr oedd gwyr diamheuys o <hi>yſpryd ſan<g ref="char:EOLhyphen"/>ctaidd</hi> yn ei gondemnio yn yr <hi>Aerianiaid.</hi> A oſodent orſeddfaingc i Griſt, yr hwn ni ad<g ref="char:EOLhyphen"/>waenent mewn eiſteddfod o <hi>bennaethiaid?</hi> A thynnu i lawr yr hyn yr oedd eu <hi>Cyngho<g ref="char:EOLhyphen"/>rion</hi> ai <hi>Ecclwyſi</hi> yn ei gynnal ai gadw i fynu mewn <hi>Anghyffelybrwydd,</hi> o Bresbeteriaid, neu Eſcobion? Na a gynhaliwch i fynu, yr hyn yr oeddych chwi eich hunain yn ei weiddi i lawr, am blaidiau damnedig ac yn gadael i gwympo, yr hyn yr oeddych yn ei weiddi i fynu, am <hi>achos</hi> ſanctaidd Duw ei hunan? Yr rhai a newidiwch eich <hi>ffyrdd:</hi> mal y gwnaeth <hi>Aecebolius</hi> ei <hi>Grefyddau</hi> gan eich clymmu ach tynnu eich hunain o am<g ref="char:EOLhyphen"/>gylch, mal y bo y <hi>gwynt</hi> yn gwaſanaethu, am <hi>Erlid</hi> neu <hi>dderchafiad?</hi> Ai yr yſpryd yna, yr hwn ſydd felly yngwrthwyneb iddo ei hun, felly yn gyfnewidiol at y byd, yw yr vn ſancteidd?</p>
+            <p>
+               <pb n="28" facs="tcp:110144:17"/>A ellwch chwi yſgwyd dwylaw ar rheini, y rhai y bu eich genau, y mae ac y bu eich calon iw gwrthod, (mal y <hi>Phariſeaid</hi> ar <hi>Sa<g ref="char:EOLhyphen"/>duciaid</hi> yn erbyn Criſt ar <hi>Arrianiaid</hi> gyd ar <hi>Eunomianiaid</hi> ar <hi>Mileſianiaid</hi> yn erbyn yr Ecclwys) o<g ref="char:EOLunhyphen"/>herwydd nad â y lliaws y ffordd y dymunech chwi? Dadcuddiwch ac eglur<g ref="char:EOLhyphen"/>wch yn well rhwng yſpryd Duw, ar byd, Cy<g ref="char:EOLhyphen"/>fodwch, ac ynnillwch vn da.</p>
+            <p>A Chwithau a gwympaſoch oddiwrth oll drefn ac vndeb Ecclwyſig, i eithaf <hi>Ataxi</hi> a <hi>Chymyſgedd</hi> yr rhai ydych i bob <hi>Gwahania<g ref="char:EOLhyphen"/>dau</hi> a <hi>Than-wahaniadau</hi> yn yr Ecclwys: a ddyſgaſoch fwrw i fynu <hi>Gyfrifon</hi> Duw a <hi>Chwyntyrs</hi> y Cythrael, ac a lenwch yr holl demlau ar tai ach <hi>Pleidiau</hi> ach <hi>Torriadau;</hi> A chwanegwch eich <hi>Credoedd</hi> (nid mal yr Arrianiaid) i Saint <hi>Hilari, credo</hi> bob mis, eithr mal y Donatiſtiaid i Saint <hi>Awſtin</hi> o feſawl <hi>Myrddiwn,</hi> gan gyfrif cynifer o Egl<g ref="char:EOLhyphen"/>wyſi, a gwyr, a <hi>Chynylleidfaoedd</hi> a <hi>Pher<g ref="char:EOLhyphen"/>ſonau</hi> (a rhai i ferched hefyd:) ydyw ca<g ref="char:EOLhyphen"/>riad Criſt yn ddiau yn eich rhwymo chwi? <hi>A ydych chwi mor ynfyd wedi i chwi ddechreu yn yr yſpryd a berffeithir chwi yr awrhon yn y cnawd?</hi>
+               <note place="margin">Gal. 3.3:</note> Ydych chwi yn ſobrach yn eich <hi>Meddyliau?</hi> A mwy o gariad perffaith yn eich calonnau, yn <hi>Ddiweiriach</hi> yn eich <hi>cyrph,</hi> yn gyfion yn eich gorchwylion? Yn well cymydogion; deiliaid, gwyr, plant, gweiſion priodwyr?</p>
+            <p>
+               <pb n="29" facs="tcp:110144:17"/>Ydych chwi yn llai <hi>Didduwwyr, Gloddeſt<g ref="char:EOLhyphen"/>wyr Crogynwyr</hi> o flaen Duw, yr Ecclwys ar byd?<note place="margin">
+                  <p>1 Cor. 6.9, 10, 11.</p>
+                  <p>Tit. 3.3, 5. Eph. 2.2. Chro. 18.21. 1 Joa. 3.8. Jer. 23.21. Gal. 5.16.</p>
+               </note> Onide (ac y mae yn rhy eglur nad oes mor rhan fwyaf o<g ref="char:EOLunhyphen"/>honoch chwi) yn ddia<g ref="char:EOLhyphen"/>mau mae i chwi ormod iw wneuthur a <hi>dia<g ref="char:EOLhyphen"/>fol;</hi> canys meddyliau a bucheddau diffaeth nid ydynt o dduw. A pha fath bynnac ar ber<g ref="char:EOLhyphen"/>ffeithrwydd yſpryd, yr ydych chwi yn ei heu<g ref="char:EOLhyphen"/>ry fod gennych, nid yw hwn ddim ond <hi>per<g ref="char:EOLhyphen"/>ffaith gnawd.</hi>
+            </p>
+            <p>A ddywedwch chwi y ffyrdd newydd yma ir nef (er eu bod yn myned yn groes ir <hi>hên lwybrau)</hi> ydynt, eich dadcuddiadau chwi oddiwrth yr vnrhyw yſpryd o Dduw? Mae hynny yn dangos ei fod yn rhy groes i fod yn vnrhiw. Gyd a Saint <hi>Joan</hi> nid ydyw. Ni all aief aros i ymolchi gyd a <hi>Cerinthus</hi> (nid yw eich vn chwi mor dylodaidd.) Gyd a policarp nid yw, ni byddai ef yn llonydd yn yr heol wrth <hi>Marcion</hi> (nid yw eich vn chwi mor afrywiog.) Gyda Saint <hi>Maxi<g ref="char:EOLhyphen"/>mus</hi> nid oedd, ni allai ef lefaru wrthynt, ag <hi>ammynedd,</hi> mae eich vn chwi yn fwy <hi>heddy<g ref="char:EOLhyphen"/>chol<g ref="char:punc">▪</g>)</hi> bydded <hi>Hereticiaid</hi> a beiau mal y mynnont, ni allwn ni gyſylltu dwylaw a chalonnau ag hwynt oll, wrth eich vn chwi.</p>
+            <p>Eithr (i roi r ddadl ar farn) ond hwn yw eich yſpryd glân rhyfygus chwi, vn iw brofi os yw o Dduw, os cymerir Barn Saint <hi>Joan,</hi> ac ar ei Eglurwch ef y cair bod yn hysbys o <hi>Gau brophwyd</hi> neu <hi>Anghriſt?</hi>
+            </p>
+            <p>
+               <pb n="30" facs="tcp:110144:18"/>Or hwn, yr ydych chwi yn eich gwneu<g ref="char:EOLhyphen"/>thur eich hunain yn <hi>llawer,</hi> lle r ydych heb griſtnogawl <hi>ofn</hi> na ſynwyr, yn rhedeg oddi<g ref="char:EOLhyphen"/>wrth vn?</p>
+            <p>Mal er nad ydych yn ol Saint <hi>Paul yn ddyn o bechod,</hi> nid matter, os ydych wyr o <hi>gam<g ref="char:EOLhyphen"/>wedd</hi> gyd a Saint <hi>Joan,</hi> ac onid ydych yr vn hwnnw; chwi ellwch fod y <hi>llawer yma.</hi> Nes bod <hi>amryw</hi> yn <hi>vn,</hi> ar <hi>arweintwybr</hi> oedd, ac ſydd ir nefoedd yn <hi>ddau,</hi> ac yn <hi>wrthwyneb;</hi> neu nad yw yſpryd Duw vn ar cyfriw vn ac a arwain ir nefoedd; Eich vn chwi, ſydd amriw fodd,<note place="margin">Jac. 3.14, 15. Pſa. 102.2 7. Mar. 16.23.</note> ac yn wrthwynebus: ni eill fod yn vn <hi>ſanctaidd.</hi> Yr hwn (megis y mae Duw) ſydd byth bythol yn vn, ac yn <hi>vn<g ref="char:EOLhyphen"/>rhiw.</hi>
+            </p>
+            <p>Dwedwch gan hynny wrth eich vn chwi, megis wrth yſpryd diſtaeth, Dos ymaith. Gwelwch y <hi>Somedigaeth,</hi> a <hi>difuddiwch</hi> ef. Trwy help dwylaw a <hi>moddau</hi> Apoſtolaidd, cyfodwch och drygioni.</p>
+            <p>Os y cwympedig ni chyfyd gwiliwch chwi yr rhai a <hi>Ogwydda</hi> rhag i chwi gwym<g ref="char:EOLhyphen"/>po. Creffwch yn dda, os cymerwch ofal gwell yr hyn a ddweded a gewch chwi we<g ref="char:EOLhyphen"/>led ynddynt eu gyd. Eich perigl chwi yw cwympo, eich Anrhydedd ſefyll. Ie ac an<g ref="char:EOLhyphen"/>rhydedd Duw hefyd. Onid yw <hi>rhagluni<g ref="char:EOLhyphen"/>aeth</hi> yn eich galw ir rhol o gyfrif i brofi pa yſpryd o <hi>wirionedd,</hi> a <hi>Gras</hi> ſydd ynoch?</p>
+            <p>
+               <pb n="31" facs="tcp:110144:18"/>Ac ond eich gogoniant chwi yw, yn erbyn holl allu <hi>hudoliaeth</hi> a <hi>prophedigaeth,</hi> beidio, a ffo, ond ſefyll allan ich profi?<note place="margin">Heb. 10.23.</note> lle mae ir Eccl<g ref="char:EOLhyphen"/>wys <hi>Deirnwialen</hi> i hynny nid yw ddim; eithr lle y mae i Satan ei orſedd, anrhydedd mawr i Dduw, ac i chwi eich hunain, (mawr iawn) gyda ac <hi>Antipas</hi> i chwi <hi>ſefyll allan</hi> yn wrol. Pan fyddo gwynt Canmholiaeth gyda a ny<g ref="char:EOLhyphen"/>ni, a llifeiriant Awdurdod yn rhedeg gyda hynny, i lywio yrfa Griſtnogawl yn vnion, <hi>poen</hi> a <hi>chelfyddyd</hi> fechan yw. Eithr pan fyddo ffafor ddynol yn chwthu oddiwrthym, at Gallu amſerol yn llenwi i fynu in herbyn, ac yn Tymeſtlu arnom, dyna lywydd da a ddalo ym mlaen am y nefoedd. Nid plygu i ddelw yr amſer, er y tân ar ffwrn boethaf. I roddi ei ddwyfron yn gynt at gleddau o ddur, na glin i lo <hi>euraid;</hi>
+               <note place="margin">Dad. 7.14. Dan. 3.17.</note> hyn ſydd wir Ar<g ref="char:EOLhyphen"/>dderchawg. Yſpryd <hi>Nehemiaeh</hi> i ymado a bywyd, o flaen yr Ecclwys. Yſpryd <hi>Libe<g ref="char:EOLhyphen"/>rius,</hi> nid cyd ddwyn ac <hi>Arrian,</hi> er yr Em<g ref="char:EOLhyphen"/>perwr. Yſpryd St. <hi>Baſil</hi> na ellid nag er teg weniaith, nag er hagr fygwth a phenyd, moi droi gyd ar <hi>Amſeroedd.</hi> Yſpryd Saint <hi>Ambros</hi> i fod yn <hi>Aberth</hi> yn hytrach nag i roi <hi>Allor</hi> i <hi>Schiſm.</hi>
+            </p>
+            <p>Ac a ewch chwi allan am lai amſer o <hi>brofiad?</hi> Pa beth ni roddech i fynu y pryd hynny mewn amſer mwy <hi>gwaedlyd?</hi>
+            </p>
+            <p>
+               <pb n="32" facs="tcp:110144:19"/>
+               <note place="margin">Heb. 12.2.</note>Os eraill mal aelodau pydrion a gwym<g ref="char:EOLhyphen"/>pant ymaith oddiwrth y corph, gadewch vddynt fyned. <hi>Eithr chwychwi anwylyd gan eich adeiladau eich hunain, ar eich ſancteiddiaf ffydd,</hi>
+               <note place="margin">Jud ad 20.21.</note> 
+               <hi>a gweddio yn yr yſpryd glan. Ymgedwch ynghariad Duw, gan ddiſgwyl traugaredd ein Harglwydd Jeſu Griſt i fywyd tragywyddol.</hi> Ac am hynny, <hi>o<g ref="char:EOLunhyphen"/>herwydd pa<g ref="char:EOLunhyphen"/>ham, codwch i fy<g ref="char:EOLhyphen"/>nu y dwylaw a laeſaſant, ar gliniau a ymollyn<g ref="char:EOLhyphen"/>gaſant, fel na throer y cloff allan or ffordd,</hi>
+               <note place="margin">Heb. 12.12, 13.</note> 
+               <hi>ond yr iacher ef yn hytrach.</hi>
+            </p>
+            <p>Cymerch yr <hi>Antidot</hi> neu r ſwyn yma yn erbyn haint yr Amſer, a ſefwch. Eithr ym mha fodd y ſafwn ni allan, pryd na adawed vn lle i ſefyll i <hi>mewn.</hi> Pa fodd y cedwir cymun gyd ar Ecclwys, pryd nad oes na <hi>Chymun</hi> nag <hi>eglwys</hi> iw gadw? Wrth y cyff hwn y tramgwydda ac a cwymp llawer; eithr os yſtyrriwn ni yn Griſtianogawl, a gochelyd, ni allwn fyned heibio heb ein bwrw i <hi>lawr.</hi>
+            </p>
+            <p>Canys yno ni gawn weled cyfle i ſefyll ynddo; a rheſwm i ſefyll allan.</p>
+            <p>
+               <note place="margin">Mat. 16.18. a. 1.28.20. Heb. 3.7. Pſa. 6.10, 11. Jer. 30.11. Ez<g ref="char:punc">▪</g> 24</note>Megis na eill corph yr Ecclwys fod yn <hi>Ddim.</hi> Felly hi fydd byth yn <hi>rhiwle.</hi> Hi eill golli <hi>glendyd,</hi> ond nid ei <hi>Bodegiaeth:</hi> eiſiau <hi>llwyddiant,</hi> nid <hi>ymddiffyniant,</hi> bod heb <hi>deml</hi> i <hi>breſwylio</hi> ynddi, eithr rhyw le i <hi>ymdeithio</hi> ynddo.</p>
+            <p>
+               <pb n="33" facs="tcp:110144:19"/>Ei <hi>haul</hi> a eill fachludo mewn vn gened<g ref="char:EOLhyphen"/>laeth, eithr a gyfyd mewn vn arall.<note place="margin">Mar. 2.43. Pſa. 14.12. Act. 8.1. Pſa. 102.14. Ezec. 37.11. Pſa. 1 37.5. Dad. 14.4. Jer. 15.9.3. Mat. 10.2. Dad. 12.1<g ref="char:punc">▪</g> Act. 7.28. 1 Bren. 29.14</note> Erlid a eill ei <hi>rhwygo,</hi> ond nid ei <hi>dinistrio</hi> hi. <hi>Sion</hi> a eill orwedd mewn <hi>llwch</hi> ryw amſer, ond nid byth yn <hi>farwol.</hi>
+            </p>
+            <p>A pha le bynnac neu pa ddelw bynnac y byddo, gan fod hynny yn ewyllys fyn nha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, a channy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gaeth fy mam i os plentyn iddi hi ac yntau wyf, rhaid i ni fod oi <hi>thy</hi> hi, A cha<g ref="char:EOLhyphen"/>lyn (megis yr Oen) y briodasferch, ir lle byn<g ref="char:EOLhyphen"/>nac yr elo hi; megis <hi>golt mair</hi> yn egori ac yn cau gyd a chyfodiad a machladiad yr haul. Felly oni bydd vn lle i ſefyll, rhaid i mi gael lle i ffo iddo.</p>
+            <p>Atti yn oeſtad, ond nid oddiwrthi byth. <hi>Ecclwys</hi> yr <hi>Iuddewon</hi> oedd yn yr <hi>anialwch,</hi> cyn bod <hi>Teml.</hi> Ym <hi>mhabilon</hi> ar ol hynny, anweledig, (o ran y cymun o diallau) yn y <hi>cyfamſer.</hi>
+            </p>
+            <p>Canys er bod Duw yn adnabod Saith mil ni phlygalent eu gliniau i <hi>Baal,</hi> nid oedd <hi>Eliah</hi> yn gweled vn wyneb yn ei erbyn ef. (Nid yw hyn reſwm i gwympo i gau addo<g ref="char:EOLhyphen"/>liad <hi>Babilonaidd, Aiphtiaidd</hi> neu <hi>Baalitici<g ref="char:EOLhyphen"/>aidd.</hi>
+            </p>
+            <p>Fe a ellir gyrru yr Ecclwys Griſtianogawl (druain gwraig) ir <hi>anialwch,</hi> ac etto gael plentyn yno (er bod yn galed iddi ei hachub ei hun ac yntau oddiwrth enau y <hi>ddraig.)</hi>
+            </p>
+            <pb n="32" facs="tcp:110144:20"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="33" facs="tcp:110144:20"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="34" facs="tcp:110144:21"/>Seinctiau a phobl Dduw a allant fod (yn wyr da) <hi>Ym mabilon,</hi> er ymbil a hwynt am berchi cwpaned oi gwin <hi>ffiaidd</hi> hi, neu er eu coethi ar ei <hi>chyrn</hi> hi, a darparu eu <hi>gwaed</hi> hwynt iw llenwi.</p>
+            <p>Yr Iuddewon (gwyr o gau grefydd) a allant gablu, ar gau brophwdes <hi>Jezabel</hi> y wraig echryſlon honno, a ddichon <hi>hudo,</hi> a chael llawer o blant yn yr Ecclwys.</p>
+            <p>Etto (er bod llawer am yr achos yma yn troi,) ni ddylai neb droi yn <hi>Gynhedloedd,</hi> yn <hi>Iuddewon,</hi> neu yn <hi>Hereticaid.</hi>
+            </p>
+            <p>Mewn Hiſtôri eglur. Yr Ecclwys Griſt<g ref="char:EOLhyphen"/>nogawl oedd ar y cyntaf mewn Tŷ yn nifer bychan.</p>
+            <p>Ar ol hynny trwy greulondeb eraill: (y fam mewn <hi>ogof,</hi> ar plant mewn <hi>cilfachau</hi> dyfnion.</p>
+            <p>Trwy haelioni a Duwioldeb <hi>Emerodwyr</hi> Criſtnogawl, yr Ecclwys a gynnyſgaeddwyd a <hi>Phalaſau,</hi> ac ag <hi>etifeddiaeth:</hi> Eithr trwy gynddeiriogrwydd a nerth yr <hi>Arrianiaid</hi> hwy a ddifuddiwyd oll. Pobl yr <hi>Arrianiaid</hi> a gawſant yr <hi>Ecclwyſydd,</hi> eu <hi>Heſcobion</hi> a ddalia<g ref="char:EOLhyphen"/>ſant y <hi>Cadairiau,</hi> eu offeiriadau y <hi>Pwlput,</hi> tra yr oedd y Chriſtnogion vnion-ffydd yn gwaſanaethu Duw, mewn <hi>Cilfachoedd.</hi>
+            </p>
+            <p>
+               <pb n="35" facs="tcp:110144:21"/>Eu Tadau oeddynt wedi eu haethwladu neu mewn <hi>Carcharoedd,</hi> neu yn llechu yn ddirgel ac yn guddiedig iw cadw eu hunain yn <hi>rhydd</hi> ac yn fyw.</p>
+            <p>Ie yr Eſcob odiaethol hwnnw or Eſco<g ref="char:EOLhyphen"/>baeth fawr honno o <hi>Alexandria:</hi> oedd yn byw mewn <hi>Cerwyn</hi> tra yr oedd yr <hi>Heretic</hi> mawr ar gelyn <hi>Arius,</hi> yn cael ei vn ef, a phob <hi>Eſcobty</hi> wrth ei orchymyn. Etto ni <hi>loſgaſid</hi> mo <hi>frigyn</hi> yr Ecclwys yn y tân hwnnw; <hi>Eſcobion, Sacramentau</hi> a <hi>gwaſana<g ref="char:EOLhyphen"/>eth</hi> oedd iw cael; nid oedd yn <hi>methu</hi> er <hi>bod</hi> eraill yn <hi>blodeuo,</hi> nid oedd reſwm yn ſefyll,<note place="margin">Exod. 3.2. Act. 7.23.</note> er bod <hi>ſynwyr</hi> yn dwyn llawer i <hi>Gymuno</hi> yn yr <hi>Hereticiaidd</hi> ar Schiſmaticiaidd waſana<g ref="char:EOLhyphen"/>eth.</p>
+            <p>Felly gan hynny (er nad oedd mewn cy<g ref="char:EOLhyphen"/>flwr ac eſmwythdra, nag mewn budd a dio<g ref="char:EOLhyphen"/>gelwch) y mae ir Ecclwys le yn oeſtad i fod, a thithau le i ſefyll. <hi>Cynnen</hi> yn erbyn <hi>rhaglu<g ref="char:EOLhyphen"/>niaeth</hi> yw dadlau am le gweddol iddi. <hi>Pechod</hi> a <hi>gwiriondeb</hi> ynot ti gwympo oddiwrthi, o<g ref="char:EOLunhyphen"/>herwydd y gynnen honno; yn enw yr hon ith orchymynnaf di, yr hwn ſydd vn ai <hi>ſyn<g ref="char:EOLhyphen"/>wyr</hi> yn dy ſiad, neu <hi>gydwybod</hi> yn dy galon, i atteb iddi y ddau <hi>bwngc</hi> ar gofynnion yma.</p>
+            <p n="1">1. Beth pe bai ddiluw o erlidiad, a halo<g ref="char:EOLhyphen"/>grwydd a chymyſgedd yn llifeirio tros yr holl Ecclwys,<note place="margin">Dan. 8.11.</note> mal na byddai na rhan na phlaid yn rhydd a diangol<g ref="char:punc">▪</g> (yr hyn y llefara
+<pb n="36" facs="tcp:110144:22"/>
+               <hi>Daniel)</hi> a ſydd: a wrthgiliech chwi y pryd hynny, a gadael y cwbl oll a throi yn An<g ref="char:EOLhyphen"/>ghriſt.</p>
+            <p n="2">2 Beth pe de nai lifeiriant o <hi>drueni</hi> i gu<g ref="char:EOLhyphen"/>ddio y lle ar Ecclwys neu ffordd y Grefydd, ir hon (mal ir ediogelaf ar lonyddaf) y ffoech chwi am diofalwch preſennol, megis i noddfa a dinas o gadernid (mal wrthgylch y byd, a barn Duw y gellwch ddiſgwyl) a <hi>an<g ref="char:EOLhyphen"/>wadalech</hi> chwi y pryd hynny, canu yn iach iddi, ai gadael?</p>
+            <p>Wrth y pwngc cyntaf, chwi a allech droi yn <hi>ddidduw,</hi>
+               <note place="margin">
+                  <p>Mic. 7.8, 9, 10. Rhy. 11.</p>
+                  <p>1 Cor. 10.12, 13.</p>
+                  <p>Jac. 2.19. Tim. 2.2.26.</p>
+               </note> ac wrth yr ail yn beth a fynnech. Hynny ni ellwch gyd a chydwybod, a hwn ni ddylech chwi rhag <hi>cywilydd.</hi> Hynny yw bod yn waeth nag yw <hi>Diafol.</hi> A hwn, dim gwell nag y mynnai ef i chwi fod. Y gwirio<g ref="char:EOLhyphen"/>nedd yw, gwaſanaethu Duw trwy gyhoeddi<g ref="char:EOLhyphen"/>ad yn lle y Bibl; i fod am Dduwioldeb, me<g ref="char:EOLhyphen"/>gis yr oedd y <hi>Rhyfeiniaid</hi> am <hi>Dduw,</hi> yn ol gweithredoedd neu Actan a gorchmynnion y <hi>Senat,</hi> I farchogae<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h cwmpaſgylch o am<g ref="char:EOLhyphen"/>gylch yr holl Ecclwyſi, (mal y bo r achos yn gwaſanaethu, a rhedeg cylch y grefydd, mal y bo yr angen yn peri; onid yw hwn Ddi<g ref="char:EOLhyphen"/>dduw cyfan, y mae yn vn (or lleiaf) wedi hanner droi.</p>
+            <p>
+               <note place="margin">Pſa. 78.37. Heb. 3.12.</note>Ac am hynny na ddywaid, nad oes i ti lle i ſefyll ynddo, eithr nad oes gennit galon i ſefyll allan. Onid oes dim tir ith troed, y mae ith ffydd.</p>
+            <p>
+               <pb n="37" facs="tcp:110144:22"/>
+               <hi>Y cyfiawn a ffydd byw trwy ei ffydd.</hi>
+               <note place="margin">Hab. 2.4. Heb. 10.35, 36.</note> Bydd fyw allau y drwg i well amſer. Gwilia am<g ref="char:EOLunhyphen"/>dano, gyd a <hi>gobaith</hi> ac <hi>ymynedd,</hi> ac felly byw a fyddi. Pan fyddo arnaf eiliau <hi>breichiau</hi> fy nhad, a <hi>gliniau</hi> ym mam, a <hi>llaw</hi> fy m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awd im dal i fynu; Rhaid im ſefyll ar fyngwae<g ref="char:EOLhyphen"/>lod fy hun (cydwybod dda) a <hi>thraed</hi> fy ffydd fy hunan. Oni bydd lle ar y <hi>ddauar,</hi>
+               <note place="margin">1 Tim. 1.19.</note> y mae yn y <hi>nefoedd: aut ſub coel o ant in coelo:</hi> tan y nef neu yn y nef. Ni gawn fod <hi>ynddi,</hi> oni by<g ref="char:EOLhyphen"/>ddwu <hi>dani</hi> diogelwch ffydd yw,<note place="margin">2 Cor. 4.16, 17. ar. 5.1. Dad. 3.21.</note> ir hwn ſydd yn ſefyll yn vnion yn ei <hi>gydwybod,</hi> ac yn <hi>Ec<g ref="char:EOLhyphen"/>clwys</hi> Dduw y mae <hi>gorſedd</hi> i <hi>eiſtedd</hi> arni, oni bydd lle yma i <hi>ſefyll</hi> ynddo, wedi ei godi ir rhai a ſafant ollawl allan.</p>
+            <p>Yn y cyfamſer, nes y bo lle gwell i <hi>ſefyll,</hi> y mae le da i fyned ar liniau ynddo. Ar lini<g ref="char:EOLhyphen"/>au i dduw a ddichon fod yn well. Rhai a eill luddies cynilleidfa o gyrph, ni eill neb,<note place="margin">Pſa. 5.18. Pſa. 122.6. Col. 2.5. 1 Cor. 5.34. Gal. 1.16. Gal. 4.25. Galam. ad. 1.5. Pſa. 137.2.</note> yr yſprydoedd. Ac mal y geill <hi>Seinctiau</hi> (pa fodd bynnac yn waſcaredig) gadw eu cynylleid<g ref="char:EOLhyphen"/>faoedd, a gweddio tu hwnt iw gelynnion; er bod yr rhain i mewn a hwythau allan o egl<g ref="char:EOLhyphen"/>wyſydd. Ac wylo am yr hyn ai gwna cyndd<g ref="char:EOLhyphen"/>rwg.</p>
+            <p>Y pechodau yr rhai a <hi>ddygodd</hi> y <hi>caethiwed</hi> hyn ar y <hi>fam</hi> ar <hi>plant</hi> ac a bair <hi>barhâd</hi> ir <hi>cyf<g ref="char:EOLhyphen"/>newidiad.</hi> Y pechodau'oth <hi>eiddo</hi> di, yn gyſtal a thai <hi>eraill.</hi>
+            </p>
+            <p>
+               <pb n="39" facs="tcp:110144:23"/>A lle a elſi di ei gael i ddagrau i <hi>wylo,</hi> oni chai le i <hi>addoli</hi> ynddo. Oni wna dagtau a gweddiau ddim lles, i beri lle gwell, y mae gennit ti le (onid yw i ſefyll) i orwedd yn<g ref="char:EOLhyphen"/>ddo. Y ddauar a rydd i ti fedd, ac y mae y ne<g ref="char:EOLhyphen"/>foedd yn erchi i ti ei groeſawu ef, os rhaid ith corph fyned iddo,<note place="margin">
+                  <p>2 Tim. 3.11, 12.</p>
+                  <p>Mar. 5.10, 12, 12.</p>
+                  <p>Heb. 10.39. ar olaf.</p>
+               </note> neu dy enaid <hi>tano</hi> ef. Y ffordd fawr barod ir <hi>nefoedd,</hi> yw trwy y cy<g ref="char:EOLhyphen"/>friw fedd. <hi>Chwanegiad</hi> o drueni, er mwyn Ja<g ref="char:EOLhyphen"/>chawdwr da, nid <hi>tynnu ynol ein dyledion, er mwyn trueni.</hi> Coeliwch flaenor da: <hi>Non ſumus filii ſubſtractionis. Nid ydym ni or rhai ſy n tyn<g ref="char:EOLhyphen"/>nu n ol i golledigaeth, namyn o ffydd i gadwedi<g ref="char:EOLhyphen"/>gaeth yr enaid.</hi>
+            </p>
+            <p n="3">3 A Chwithau fydd yn ſefyll, <hi>rhyddhewch eich hunain, fel gwyr:</hi> ac na ogwyddwch. Gyd ag <hi>Ephraim</hi> na throwch eich cefnau yn Nydd y frwydr. Eich gogoniant preſennol yw, ac fe fydd yn <hi>dragywyddol</hi> i chwi, os ym<g ref="char:EOLhyphen"/>leddwch allan ir eithaf. Ffieiddiwch yr enw o <hi>Hereſi</hi> gyd St. <hi>Agathon.</hi> Ar peth ei hun gyd St. <hi>Awstin,</hi> na fyddwch mal <hi>Presbyteriaid beilchion,</hi>
+               <note place="margin">1 Cor. 16.13. 2 Theſſ. 2.14. Pſa. 78.9. 2 Tim. 4.8. Dad. 2.10.</note> St. <hi>Cyprian,</hi> ar yr rhain y mae yn achwyn am orthrymmu yr Ecclwys. Eithr mal yr rhai goſtyngedig, yr rhai y mae Saint <hi>Awſtin</hi> yn eu canmol, am gadw cymdeithas a ffydd gyd a hi, er eu bwrw allan ar gam, trwy farn galed, ai hannog iw gadael hi: na fyddwch fel gwyr <hi>Galatia</hi> i <hi>Symud</hi> (yn rhy<g ref="char:EOLhyphen"/>feddol) eithr bod fel y dylai yr Hebread ffyddlon fod:<note place="margin">Gal. 1.6.</note>
+               <note place="margin">1 Joa. 6.7.</note> 
+               <hi>Yn dal cyffes ei obaith yn ddiſgl.</hi> Tybiwch fod Criſt yn dywedyd wrthych chwi, ewch chwithau ymaith hefyd? A dyſgwch beth yw meddwl yr hyn a ddywaid:
+<pb n="40" facs="tcp:110144:23"/>
+               <hi>Pwy bynnac o ewyllyſio gadw ei fywyd ai cyll. Pwy bynnac a garo ddyn neu ryw beth yn fwy na Christ nid yw de lwng o Jachawdwr.</hi>
+               <note place="margin">Mat. 16.25.</note> Gwell (os geilw Duw) golli ei ſtât ai fe diannau nar bywyd, ar ddau na r eneidiau: <hi>Na thyn yn ol i golledigaeth.</hi> Na ymadewch ar <hi>Gad</hi> ſanctaidd rhag eich <hi>gyrru</hi> yn ol.<note place="margin">Jud ad 3. Dad. 2.3. Heb. 2.10. Joa. 16.13. Heb. 1.14. 2 Tim. 2.3. Phil. 3 10. Tit. 3.11.</note> Cym mhelled a <hi>Con<g ref="char:EOLhyphen"/>ſtantius</hi> yn y dechreu, a <hi>Julian</hi> (ond odid yn y diwedd. <hi>Gwirionedd</hi> yw <hi>achos</hi> i ymladd tros Dduw, ar Ecclwyſydd yw <hi>achos</hi> Duw; y mae Duw yn gweled yr hwn a <hi>ymladdo</hi> ac <hi>a ffa,</hi> efe yw r <hi>golygwr.</hi> Criſt ywr captaen, ei yſpryd yw r <hi>tywyſwr.</hi> Angelion yw ch <hi>gwilwyr, Seinct<g ref="char:EOLhyphen"/>aiau</hi> eich <hi>cymdeithion,</hi> y nefoedd yw r <hi>gyng<g ref="char:EOLhyphen"/>lwyſt</hi> werthfawr. Tragywyddoldeb, y Go<g ref="char:EOLhyphen"/>ron. Llonyddwch, yw r gerfoledd or ymra<g ref="char:EOLhyphen"/>fael ſanctaidd yma. Je heddwch digyffelyb yw r mwyniant preſennol. Och pa friwiau fydd iw calonnau hwynt, yr rhai a ymada<g ref="char:EOLhyphen"/>want ar Ecclwys ac a chydwybod dda i gadw eu <hi>cyfoeth</hi> ai <hi>pennau.</hi>
+               <note place="margin">1 Cor. 7.29.</note> Ni fydd yr amſer yn hir. Bywyd yw r diwrnod (fe allai nad yw eich am<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er chwi ond awr o ymladd.) <hi>Nube<g ref="char:EOLhyphen"/>cula cito tranſitura,</hi> cymwl bach yn darfod yn fuan, mal y Dywedodd <hi>Athanaſius</hi> am de<g ref="char:EOLhyphen"/>meſtl <hi>Julian.</hi> Na nid cwmwl bychan, namyn ychydig or hyn y medd St. <hi>Jaco</hi> yn ei alw, <hi>Tarth ydyw, yr hwn ſydd tros ychydig yn ym<g ref="char:EOLhyphen"/>ddangos a chwedi hynny yn diflannu.</hi>
+               <note place="margin">Jac. 4.14. 1 Jo. 2.17. Heb. 10.37. Ezec. 37 9, 11, 19, 22, 23, 24.</note> Darfode<g ref="char:EOLhyphen"/>dig yw r byd mawr medd St. <hi>Joan.</hi> Y byd by<g ref="char:EOLhyphen"/>chan, (dyn) a <hi>rêd</hi> o flaen hynny. Ar byd drwg a hêd oi flaen yntau. Fe ddichon <hi>eſcyrn ſy<g ref="char:EOLhyphen"/>chion Ezeciel</hi> fyw. Ac fe ellir cydio dau bren (os anadla Duw ei ffafor) mewn <hi>Mynudyn.</hi>
+               <pb n="41" facs="tcp:110144:24"/> Bwrtiwch ich anadl ymadael (cyn dyfod hynny) ir tragywyddoldeb o lawenydd, neu drueni:<note place="margin">
+                  <p>Rhy. 8.18. <hi>aeterna quies aeterno labo<g ref="char:EOLhyphen"/>re merito comparatur</hi> Creg.</p>
+                  <p>1 Cor. 7.3. Dad. 3 15. Dad 22.12. 2 Tim. 4.8. 2 Cor. 9.24, 25.</p>
+                  <p>Jac. 1.12.</p>
+               </note> Yr hyn a ddiſgwyl ar dy <hi>Wastad<g ref="char:EOLhyphen"/>rwydd,</hi> neu dy <hi>Wrthgiliad,</hi> nid yw r einioes hwyaf ond cwmwl bychan. A <hi>mwg,</hi> neu <hi>law,</hi> y <hi>gorau</hi> ar <hi>gwaethaf</hi> o<g ref="char:EOLunhyphen"/>hono. Yr holl ddaioni ar drygioni or byd nid yw ddim amgen ſyl<g ref="char:EOLhyphen"/>wedd: ar diflaniad o hwnnw (dim mwy amſer) dyfod yn fuan, a darfod yn y man.</p>
+            <p>Ac onid awn at Dduw, Criſt a ddaw attom ni yn fuan. <hi>Gwelwch</hi> hynny a <hi>delwch</hi> allan er mwyn hynny. Y mae yn erchi i ni wneuthur. Y ddau. <hi>Wele yr wyf yn dyfod ar frys, dal yr hyn ſydd genuit fel na ddycco neb dy goron di.</hi> Pan ddelo y <hi>mae ei wobr gyda ag ef.</hi> Ath tal di a fydd dwbl gyflog. Yr hwn a fuoſt yn wa<g ref="char:EOLhyphen"/>ſanaethwr, ac yn ymladdwr ffyddlon troſto. Ac am hynny, ti a gai y ddwy: coron <hi>Seinct</hi> a <hi>dioddefwr.</hi> Felly gyd ac <hi>Antidot</hi> yr Apo<g ref="char:EOLhyphen"/>ſtolion y mae i chwi <hi>gadwedigaeth</hi> eich Ja<g ref="char:EOLhyphen"/>chawdwr. Oll ag <hi>Amen</hi> oi <hi>enau</hi> ef, i beri iddo weithio yn nertholach ar eich <hi>calon</hi> chwi. Gwrandewch yr hyn a ddywaid, yr hwn <hi>yw Amen y tyſt ffyddlon a chywir.</hi>
+               <note place="margin">Dad. 3.14.</note> A bydded <hi>ffydd a gobaith</hi> i ſelio yr hyn a ſcrifennodd ef gyd ach <hi>Amen</hi> chwithau.</p>
+            <p>
+               <hi>Yn wir meddaf i chwi, y cewch chwi yr rhai am canlynaſoch i yn yr adenedigaeth,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Mar. 1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.28, 29.</hi>
+                  </p>
+                  <p>A barhau<g ref="char:EOLhyphen"/>ſant gyd a myfi yn fy mhrofedig<g ref="char:EOLhyphen"/>aethau.</p>
+               </note> 
+               <hi>pan eiſte<g ref="char:EOLhyphen"/>ddo mab y dyn ar orfedd ei ogoniant, eiſteddwch chwithau ar ddeuddeg gorſedd yn barnu deu<g ref="char:EOLhyphen"/>deg-llwyth</hi> Iſrael.</p>
+            <p>
+               <pb n="42" facs="tcp:110144:24" rendition="simple:additions"/>
+               <hi>A phob vn ar a adawodd dai,</hi>
+               <note place="margin">Luc. 22.30.</note> 
+               <hi>neu frodyr neu chwiorydd neu Dad neu fam, neu wraig neu blant neu diroedd er mwyn fy enw i, a dderbyn y can cimaint, a bywyd tragwyddol a etifedda ef.</hi>
+            </p>
+            <trailer>Diwedd.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
